@@ -26,13 +26,13 @@ Expect curiosity, practical tools, a little mythology, and humour where it helps
 
 | Branch | Purpose | Destination |
 | --- | --- | --- |
-| **Aletheia Apps** | Small, usable, evidence-aware browser and portable Markdown applications. | [Apps project](https://karstenevans.github.io/aletheia-app/) |
-| **Aletheia Knowledge** | Evidence-linked collections, local knowledge and learning resources. | [Knowledge project](https://karstenevans.github.io/aletheia-knowledge/) |
-| **Aletheia Protocol** | Portable records of evidence, uncertainty, decisions and handovers. | [Protocol repository](https://github.com/KarstenEvans/aletheia-protocol) |
-| **Thalia Protocol** | A complementary open approach to understanding and creating humour. | [Thalia repository](https://github.com/KarstenEvans/thalia-protocol) |
-| **Aletheia Learn** | Accessible courses on AI and practical reasoning. | **Planned central listing** |
-| **Aletheia Go** | Explorations, scientific ideas and original thought-provoking articles. | **Planned** |
-| **Articles** | Humour, science and curiosity, including *The Big Hug Theory*. | **Planned** |
+| **Aletheia Apps** | Small, usable, evidence-aware browser and portable Markdown applications. | [Aletheia Apps project](https://karstenevans.github.io/aletheia-app/) |
+| **Aletheia Knowledge** | Evidence-linked collections, local knowledge and learning resources. | [Aletheia Knowledge project](https://karstenevans.github.io/aletheia-knowledge/) |
+| **Aletheia Protocol** | Portable records of evidence, uncertainty, decisions and handovers. | [Aletheia Protocol repository](https://github.com/KarstenEvans/aletheia-protocol) |
+| **Thalia Protocol** | A complementary open approach to understanding and creating humour. | [Thalia Protocol repository](https://github.com/KarstenEvans/thalia-protocol) |
+| **Aletheia Learn** | Accessible courses on AI and practical reasoning. | [Aletheia Learn App](https://karstenevans.github.io/aletheia-app/aletheia-learn/aletheia-learn.htm) |
+| **Aletheia Go** | Explorations, scientific ideas and original thought-provoking articles. | [Aletheia Go project](https://karstenevans.github.io/aletheia/aletheia-go/) |
+| **Articles** | Humour, science and curiosity, including *The Big Hug Theory*. | [Aletheia Articles](https://karstenevans.github.io/aletheia/articles/) |
 
 Entries marked **planned** are ideas or future sections, not functioning destinations. This hub is an index and front door, not a replacement for the individual repositories.
 
