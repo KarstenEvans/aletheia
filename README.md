@@ -40,6 +40,10 @@ Expect curiosity, practical tools, a little mythology, and humour where it helps
 
 **[Aletheia Discussions: Leave a Dot](https://github.com/KarstenEvans/aletheia/discussions)** welcomes ideas, criticism, original humour keys, writer vibes, research references and app feedback. Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [Discussion guide](DISCUSSIONS.md). Visitors can suggest improvements; maintainers retain control of source files.
 
+## World Tree lore and publication conventions
+
+Aletheia's approved creative tone is **original Norse/Elvish woodland fantasy, gently humorous**, with characters introduced gradually. Read the [World Tree storyworld guide](WORLD-TREE-STORYWORLD.md) for the creative boundaries, mythology notes and character candidates. Authors of research and humour PDFs should follow the [standard clickable article footer](ARTICLE-FOOTER.md).
+
 ## Our principles
 
 - **Knowledge belongs to the project, not the assistant.**
