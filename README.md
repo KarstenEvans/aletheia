@@ -8,13 +8,13 @@
 
 <p align="center"><strong>Rooted in knowledge. Branching into possibilities.</strong></p>
 
-<p align="center">Visit the World Wide AI site: <a href="https://karstenevans.github.io/aletheia/">Aletheia</a></p>
+<p align="center">Visit the Worldwide AI site: <a href="https://karstenevans.github.io/aletheia/">Aletheia</a></p>
 
 ---
 
 ## What is Aletheia?
 
-Aletheia is a free, human-centred and AI-independent gateway to connected knowledge, research, learning, useful applications, articles and open protocols.
+Aletheia, the Worldwide AI site, is a free, human-centred and AI-independent gateway to connected knowledge, research, learning, useful applications, articles and open protocols.
 
 The name comes from the Greek word for **truth**, often associated in philosophy with disclosure or bringing what is hidden into the light. Our visual identity borrows from **Yggdrasil**, the World Tree of Norse mythology: a single tree whose branches connect many different worlds.
 
@@ -26,8 +26,8 @@ Expect curiosity, practical tools, a little mythology, and humour where it helps
 
 | Branch | Purpose | Destination |
 | --- | --- | --- |
-| **Aletheia Apps** | Small, usable, evidence-aware browser and portable Markdown applications. | [Apps website](https://karstenevans.github.io/aletheia-app/) |
-| **Aletheia Knowledge** | Evidence-linked collections, local knowledge and learning resources. | [Knowledge website](https://karstenevans.github.io/aletheia-knowledge/) |
+| **Aletheia Apps** | Small, usable, evidence-aware browser and portable Markdown applications. | [Apps project](https://karstenevans.github.io/aletheia-app/) |
+| **Aletheia Knowledge** | Evidence-linked collections, local knowledge and learning resources. | [Knowledge project](https://karstenevans.github.io/aletheia-knowledge/) |
 | **Aletheia Protocol** | Portable records of evidence, uncertainty, decisions and handovers. | [Protocol repository](https://github.com/KarstenEvans/aletheia-protocol) |
 | **Thalia Protocol** | A complementary open approach to understanding and creating humour. | [Thalia repository](https://github.com/KarstenEvans/thalia-protocol) |
 | **Aletheia Learn** | Accessible courses on AI and practical reasoning. | **Planned central listing** |
@@ -45,15 +45,19 @@ Entries marked **planned** are ideas or future sections, not functioning destina
 - Put human usefulness first, and keep the site accessible and mobile friendly.
 - Let imagination attract attention; let evidence earn trust.
 
-## Website structure
+## GUI and naming guidance
+
+The public name of this hub is **Aletheia, the Worldwide AI site**. **The World Tree of Knowledge** remains its visual subtitle. Future editors and AI agents should read [aletheia-GUI.md](aletheia-GUI.md) before changing the public identity, homepage or navigation.
+
+## Worldwide AI site structure
 
 ```text
-index.html               Public website homepage (GitHub Pages)
+index.html               Public homepage of the Worldwide AI site (GitHub Pages)
 README.md                Human + AI-readable repository introduction
 assets/world-tree.svg    Green two-tree logo
 ```
 
-The site is intentionally small and static. The richer applications and knowledge collections remain in their own repositories. The website uses ordinary HTML and CSS; it does not require server hosting, paid APIs or GitHub Actions.
+The Worldwide AI site is intentionally small and static. The richer applications and knowledge collections remain in their own repositories. This hub uses ordinary HTML and CSS; it does not require server hosting, paid APIs or GitHub Actions.
 
 ### Publishing
 
