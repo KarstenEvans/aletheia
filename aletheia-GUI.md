@@ -56,6 +56,15 @@ The World's Tree of Knowledge motif is inspired by Norse Yggdrasil, linked world
 - Avoid heavy frameworks, mandatory accounts, mandatory AI subscriptions, intrusive banners or giant animations hiding useful links.
 - Readable without JavaScript; accessible labels, keyboard focus, responsive layout and reduced-motion support.
 
+### Image composition: do not obscure text
+
+- **Do not place opaque or dark background boxes, captions or banners over other text in an illustration, infographic or article cover.** An added panel must never mask, collide with or reduce the legibility of existing labels.
+- Prefer **text without a background box**, positioned on genuinely clear space. If a text overlay needs separation, use an appropriately transparent treatment or a dedicated non-overlapping area; transparency is not an excuse to stack unreadable words.
+- For busy illustrations, place credits, mottos, legends or navigation text **outside the image** (for example, in the PDF's surrounding page layout) when possible.
+- When revising an existing image, preserve the illustration's visual information and check the **entire bottom edge**, where footers commonly obscure original text.
+- Before release, inspect at full resolution and at likely mobile/PDF display sizes. Confirm **no overlapping labels, blocked words, clipped lines or low-contrast text**. If any collision remains, reposition or simplify the overlay.
+- This is a general visual-design rule for **Aletheia illustrations, covers, infographics and future generated assets**, not a requirement to make functional UI panels transparent when they occupy their own space.
+
 ## 4. Storyworld and article standards
 
 - Our approved creative style is **original Norse/Elvish woodland fantasy with a touch of humour**, *not* an imitation of any one fiction franchise.
