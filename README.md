@@ -34,7 +34,11 @@ Expect curiosity, practical tools, a little mythology, and humour where it helps
 | **Aletheia Go** | Explorations, scientific ideas and original thought-provoking articles. | [Aletheia Go project](https://karstenevans.github.io/aletheia/aletheia-go/) |
 | **Articles** | Humour, science and curiosity, including *The Big Hug Theory*. | [Aletheia Articles](https://karstenevans.github.io/aletheia/articles/) |
 
-Entries marked **planned** are ideas or future sections, not functioning destinations. This hub is an index and front door, not a replacement for the individual repositories.
+**Aletheia Go** and **Articles** now have their own folder landing pages and published HTML manuscripts. Some additional courses and article formats remain in development. This hub is an index and front door, not a replacement for the individual repositories.
+
+## Join the community
+
+**[Aletheia Discussions: Leave a Dot](https://github.com/KarstenEvans/aletheia/discussions)** welcomes ideas, criticism, original humour keys, writer vibes, research references and app feedback. Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [Discussion guide](DISCUSSIONS.md). Visitors can suggest improvements; maintainers retain control of source files.
 
 ## Our principles
 
@@ -55,6 +59,10 @@ The public name of this hub is **Aletheia, the Worldwide AI site**. **The World 
 index.html               Public homepage of the Worldwide AI site (GitHub Pages)
 README.md                Human + AI-readable repository introduction
 assets/world-tree.svg    Green two-tree logo
+aletheia-go/index.html    Go Walkabout research landing page
+articles/index.html       Humour and science article landing page
+CODE_OF_CONDUCT.md        Community conduct rules
+DISCUSSIONS.md            Discussion categories and welcome template
 ```
 
 The Worldwide AI site is intentionally small and static. The richer applications and knowledge collections remain in their own repositories. This hub uses ordinary HTML and CSS; it does not require server hosting, paid APIs or GitHub Actions.
