@@ -8,7 +8,7 @@
 
 <p align="center"><strong>Rooted in knowledge. Branching into possibilities.</strong></p>
 
-<p align="center"><a href="https://karstenevans.github.io/aletheia/">Visit the Aletheia website</a></p>
+<p align="center">Visit the World Wide AI site: <a href="https://karstenevans.github.io/aletheia/">Aletheia</a></p>
 
 ---
 
