@@ -52,11 +52,19 @@ The World's Tree of Knowledge motif is inspired by Norse Yggdrasil, linked world
 - Make **Worldwide AI site** immediately visible as the site's identity, without replacing the title or motto.
 - Below the hero, make the project branches obvious, mobile-friendly and genuinely clickable when live.
 - Keep **Aletheia Apps**, **Aletheia Knowledge**, **Aletheia Protocol** and **Thalia Protocol** linked to their existing destinations.
-- Mark **Aletheia Learn**, **Aletheia Go** and **Articles** as planned until their public destinations exist. Never invent working links.
+- **Aletheia Learn** links to the existing named `aletheia-learn.htm` app; **Aletheia Go** and **Articles** now have committed folder `index.html` landing pages. Never invent working links or call a page live without actually checking deployment.
 - Avoid heavy frameworks, mandatory accounts, mandatory AI subscriptions, intrusive banners or giant animations hiding useful links.
 - Readable without JavaScript; accessible labels, keyboard focus, responsive layout and reduced-motion support.
 
-## 4. Content and publishing rules
+## 4. Storyworld and article standards
+
+- Our approved creative style is **original Norse/Elvish woodland fantasy with a touch of humour**, *not* an imitation of any one fiction franchise.
+- Refer to [WORLD-TREE-STORYWORLD.md](WORLD-TREE-STORYWORLD.md) before introducing or changing recurring characters, mythology or art direction. Build characters **gradually** and separate historical lore from invented stories.
+- Keep the logo, subtitle and three-line motto unchanged. The fantasy theme must never obscure useful links.
+- Use [ARTICLE-FOOTER.md](ARTICLE-FOOTER.md) when preparing new article PDFs: Aletheia Protocol, Thalia Protocol, Aletheia Go, the Worldwide AI site and **https://swindon.org.uk/** as clickable links.
+- Scandinavian **lørdag/laurdag** comes from Old Norse **laugardagr** (“bath/washing day”), while English **Saturday** retains Saturn. **Dag means day, not dog**.
+
+## 5. Content and publishing rules
 
 - The hub stays small: `index.html` is the human-facing entry point; `README.md` is the source-readable entry point.
 - Update the matching `README.md`, `index.html` and this GUI guidance when public identity wording changes.
@@ -66,7 +74,7 @@ The World's Tree of Knowledge motif is inspired by Norse Yggdrasil, linked world
 - The Aletheia Protocol and Thalia Protocol are independently maintained, with their own repository governance and licences; link to them instead of silently changing them.
 - Use a static, progressively enhanced experience. The public page should stay usable if optional visual or AI features fail.
 
-## 5. Maintenance acceptance checks
+## 6. Maintenance acceptance checks
 
 1. Main hub described consistently as **Aletheia, the Worldwide AI site**.
 2. Green **two-tree** logo, World Tree subtitle, motto and tagline preserved.
