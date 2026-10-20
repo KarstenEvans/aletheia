@@ -29,7 +29,10 @@ AI originality isn't a competition to open the most browser tabs. Nor is similar
 
 **If your AI work begins to look like a Hall of Mirrors, step outside and Go Walkabout.**
 
-📖 Read *The AI Mirror House* directly here:
+📄 Read *The AI Mirror House* directly as a PDF:
+https://karstenevans.github.io/aletheia/articles/the-ai-mirror-house.pdf
+
+📖 Or read the web article:
 https://karstenevans.github.io/aletheia/articles/the-ai-mirror.html
 
 🧭 Try the GoWalkabout launcher, choose your AI and start:
@@ -45,7 +48,7 @@ Which of your AI habits would you most like to put through a different mirror?
 ---
 
 ## Visual attachment
-Use one of the two original mirror illustrations from the article PDF: hall_of_infinite_reflections.png or whimsical_reflections_of_creative_ideas.png. The post contains a public HTML article link; the original downloadable PDF remains an unpublished binary and must not be misrepresented as hosted on GitHub Pages.
+Use one of the two original mirror illustrations from the article PDF: hall_of_infinite_reflections.png or whimsical_reflections_of_creative_ideas.png. The post links to a text-and-vector PDF committed to GitHub. The separate original image-rich PDF remains an unpublished binary and must not be misrepresented as uploaded.
 
 ## Publishing note
 Do not call the above URLs LIVE-VERIFIED unless they were opened successfully. These are canonical proposed Pages routes corresponding to repository source files. A LinkedIn post is not automatically published.
