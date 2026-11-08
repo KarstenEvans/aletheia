@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc"><title id="title">The Asgard Files</title><desc id="desc">Asgard archaeon and ancient bacterium combine into a mitochondrion under northern lights.</desc>
+<defs><linearGradient id="sky" x2=".8" y2="1"><stop stop-color="#071526"/><stop offset="1" stop-color="#194637"/></linearGradient><radialGradient id="g"><stop stop-color="#b4ffc1" stop-opacity=".7"/><stop offset="1" stop-color="#a9ffc1" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="630" fill="url(#sky)"/><path d="M0 128 Q340 1 680 138 T1200 78" stroke="#4af3bd" stroke-opacity=".18" stroke-width="77" fill="none"/>
+<g fill="#d8ffe8" opacity=".7"><circle cx="67" cy="51" r="2"/><circle cx="370" cy="95" r="2"/><circle cx="900" cy="47" r="3"/><circle cx="1150" cy="146" r="2"/></g>
+<text x="55" y="85" font-family="Georgia,serif" font-size="24" fill="#9df1bd" letter-spacing="5">ALETHEIA GO / SIF'S AI ARCHAEOLOGY</text>
+<text x="54" y="155" font-family="Georgia,serif" font-size="64" fill="#f8f2d2" font-weight="bold">THE ASGARD FILES</text>
+<text x="58" y="209" font-family="Georgia,serif" font-size="33" fill="#d9f1e5">The Gods Who Never Left</text>
+<circle cx="200" cy="381" r="115" fill="url(#g)"/><ellipse cx="201" cy="381" rx="97" ry="61" fill="#394b89" stroke="#a9ddff" stroke-width="7" transform="rotate(-23 201 381)"/>
+<g stroke="#b9ecff" stroke-width="5"><path d="M106 320l-28-23 M184 314l-4-33 M297 375l42-17 M158 435l-18 32"/></g>
+<text x="201" y="536" text-anchor="middle" font-size="23" fill="#fff" font-family="Georgia,serif">ASGARD ARCHAEON</text>
+<text x="420" y="411" font-size="83" fill="#f8dea2" font-family="Georgia,serif">+</text>
+<rect x="517" y="310" width="188" height="124" rx="64" fill="#a85726" stroke="#ffe0a0" stroke-width="6" transform="rotate(-16 611 370)"/><path d="M547 382q41-91 75 0t65-15" stroke="#ffe19a" stroke-width="12" fill="none"/>
+<text x="611" y="536" text-anchor="middle" font-size="23" fill="#fff" font-family="Georgia,serif">BACTERIUM</text>
+<path d="M744 387h57l-19-18m19 18-19 18" fill="none" stroke="#b4ffd0" stroke-width="9"/>
+<rect x="846" y="285" width="298" height="189" rx="27" fill="#153e3b" stroke="#7addbd" stroke-width="5"/><path d="M872 398q45-125 94-3t126-52" stroke="#ffc879" stroke-width="19" fill="none"/>
+<text x="996" y="536" text-anchor="middle" font-size="23" fill="#fff" font-family="Georgia,serif">MITOCHONDRION</text>
+<text x="58" y="601" font-size="23" font-family="Georgia,serif" font-style="italic" fill="#d4f6e1">"Free accommodation. Just keep the lights on."</text></svg>
