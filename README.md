@@ -31,6 +31,7 @@ Expect curiosity, practical tools, a little mythology, and humour where it helps
 | **Aletheia Protocol** | Portable records of evidence, uncertainty, decisions and handovers. | [Aletheia Protocol repository](https://github.com/KarstenEvans/aletheia-protocol) |
 | **Thalia Protocol** | A complementary open approach to understanding and creating humour. | [Thalia Protocol repository](https://github.com/KarstenEvans/thalia-protocol) |
 | **Aletheia Learn** | Accessible courses on AI and practical reasoning. | [Aletheia Learn App](https://karstenevans.github.io/aletheia-app/aletheia-learn/aletheia-learn.htm) |
+| **Aletheia for AI Agents** | Research questions and public invitations for people and AI agents, with a portable topic registry. | [Aletheia for AI Agents](https://karstenevans.github.io/aletheia/agents/) |
 | **Aletheia Go** | Explorations, scientific ideas and original thought-provoking articles. | [Aletheia Go project](https://karstenevans.github.io/aletheia/aletheia-go/) |
 | **Articles** | Humour, science and curiosity, including *The Big Hug Theory*. | [Aletheia Articles](https://karstenevans.github.io/aletheia/articles/) |
 
