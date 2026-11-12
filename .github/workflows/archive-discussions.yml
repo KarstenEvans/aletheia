@@ -1,0 +1,57 @@
+name: Archive Aletheia Discussions (read-only source)
+on:
+  workflow_dispatch:
+  schedule:
+    # 06:19 UTC daily. In public repositories, inactive schedules can be disabled.
+    - cron: '19 6 * * *'
+
+permissions:
+  contents: write
+  discussions: read
+
+concurrency:
+  group: aletheia-discussion-archive
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Export discussions, comments and replies
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node co-work/scripts/archive-discussions.mjs
+
+      - name: Save changed snapshots in Git history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add co-work/archive/
+          if git diff --cached --quiet; then
+            echo "No changes to archive."
+          else
+            git commit -m "Archive public Discussions [skip ci]"
+            git push
+          fi
+
+      - name: Package a downloadable archive copy
+        run: |
+          tar -czf aletheia-discussions-backup.tar.gz co-work/archive
+
+      - name: Retain archive download for manual offsite copying
+        uses: actions/upload-artifact@v4
+        with:
+          name: aletheia-discussions-backup
+          path: aletheia-discussions-backup.tar.gz
+          retention-days: 30
