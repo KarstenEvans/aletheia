@@ -1,0 +1,23 @@
+name: Publish initial Aletheia AI Discussions
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/seed-ai-discussions.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  discussions: write
+
+jobs:
+  publish-once:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Check out the Aletheia discussion starters
+        uses: actions/checkout@v4
+      - name: Create missing discussions (safe to retry)
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node .github/scripts/seed-discussions.mjs
