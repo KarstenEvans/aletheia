@@ -14,11 +14,11 @@ The main hub is called **Aletheia, the Worldwide AI site**.
 - **Do not** call the Aletheia hub *"World Wide Web"*, *"World Wide AI site"* (three words), or generically *"the website"* in public-facing editorial copy.
 - This is **project branding**, not a claim that Aletheia is the entire internet or a global AI authority.
 - **"The World Tree of Knowledge"** remains the homepage's visual subtitle and creative identity; it is **not** a replacement for **"Worldwide AI site"**.
-- Preserve the agreed motto exactly:
+- Preserve the agreed motto exactly in project documentation and other appropriate editorial contexts. The compact public homepage no longer displays the large three-line motto block:
   > One tree to link them all.  
   > Many minds to question them.  
   > And truth to illuminate them.
-- Preserve the line **"Rooted in knowledge. Branching into possibilities."**
+- Preserve the line **"Rooted in knowledge. Branching into possibilities."** in project documentation; it is not required on the compact homepage.
 - Keep the existing green **two-tree** SVG as the emblem: `assets/world-tree.svg`. Do not replace it with an unrelated single-tree illustration.
 - Canonical spelling in titles, repository names and URLs is **Aletheia**. Respect the names of the existing child projects, including Aletheia Apps and Aletheia Knowledge.
 
@@ -48,12 +48,12 @@ The World's Tree of Knowledge motif is inspired by Norse Yggdrasil, linked world
 
 ## 3. Homepage UI
 
-- Show the existing **two-tree icon**, **ALETHEIA** title, **The World Tree of Knowledge** subtitle, and exact three-line motto prominently at the top.
-- Make **Worldwide AI site** immediately visible as the site's identity, without replacing the title or motto.
-- Below the hero, make the project branches obvious, mobile-friendly and genuinely clickable when live.
+- Show the existing **two-tree icon**, **ALETHEIA** title and **The World Tree of Knowledge** subtitle in a **compact hero**. The large three-line motto, tagline, duplicate identity line and Explore CTA were intentionally removed from the homepage on 13 November 2026 at the project owner’s request; keep the motto and tagline in README/project sources.
+- Keep **Worldwide AI site** as the identity in the page title, metadata and compact footer, without creating a second oversized hero line.
+- Immediately below the hero, show compact linked cards for existing projects. The **card title is the only link**; do not add a second green CTA beneath the description or a repetitive "Live project" label. Use three columns on wider screens, two for tablet widths and one for phones, selected by responsive CSS width rather than device identity.
 - Keep **Aletheia Apps**, **Aletheia Knowledge**, **Aletheia Protocol** and **Thalia Protocol** linked to their existing destinations.
 - **Aletheia Learn** links to the existing named `aletheia-learn.htm` app; **Aletheia Go** and **Articles** now have committed folder `index.html` landing pages. Never invent working links or call a page live without actually checking deployment.
-- Avoid heavy frameworks, mandatory accounts, mandatory AI subscriptions, intrusive banners or giant animations hiding useful links.
+- Use a keyboard-accessible **☰ Menu** in the header instead of repeated top-of-page text links. Keep the visible homepage short; place supporting About/principles information in a collapsed footer disclosure. Avoid heavy frameworks, mandatory accounts, mandatory AI subscriptions, intrusive banners or giant animations hiding useful links.
 - Readable without JavaScript; accessible labels, keyboard focus, responsive layout and reduced-motion support.
 
 ### Image composition: do not obscure text
@@ -69,7 +69,7 @@ The World's Tree of Knowledge motif is inspired by Norse Yggdrasil, linked world
 
 - Our approved creative style is **original Norse/Elvish woodland fantasy with a touch of humour**, *not* an imitation of any one fiction franchise.
 - Refer to [WORLD-TREE-STORYWORLD.md](WORLD-TREE-STORYWORLD.md) before introducing or changing recurring characters, mythology or art direction. Build characters **gradually** and separate historical lore from invented stories.
-- Keep the logo, subtitle and three-line motto unchanged. The fantasy theme must never obscure useful links.
+- Keep the logo and subtitle unchanged, and preserve the exact three-line motto where quoted in documentation or editorial content. Do not force the motto into the compact homepage hero. The fantasy theme must never obscure useful links.
 - Use [ARTICLE-FOOTER.md](ARTICLE-FOOTER.md) when preparing new article PDFs: Aletheia Protocol, Thalia Protocol, Aletheia Go, the Worldwide AI site and **https://swindon.org.uk/** as clickable links.
 - Scandinavian **lørdag/laurdag** comes from Old Norse **laugardagr** (“bath/washing day”), while English **Saturday** retains Saturn. **Dag means day, not dog**.
 
@@ -86,7 +86,7 @@ The World's Tree of Knowledge motif is inspired by Norse Yggdrasil, linked world
 ## 6. Maintenance acceptance checks
 
 1. Main hub described consistently as **Aletheia, the Worldwide AI site**.
-2. Green **two-tree** logo, World Tree subtitle, motto and tagline preserved.
+2. Green **two-tree** logo and World Tree subtitle visible on the homepage; exact motto and tagline preserved in the repository documentation.
 3. No public-facing generic rebranding to **"website"** or **"World Wide Web"**.
 4. README and homepage terms agree.
 5. Live branches have correct destinations; planned branches cannot masquerade as live.
