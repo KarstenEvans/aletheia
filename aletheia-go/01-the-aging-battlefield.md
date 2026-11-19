@@ -1,6 +1,6 @@
 # The Aging Battlefield: What If We Could Stop Our Bodies Fighting Themselves?
 
-**AletheiaGo | Go Walkabout | Research article 001 | 17 October 2026**  
+**AletheiaGo | Go Walkabout | Research article 001 | 17 October 2026; updated 19 November 2026**  
 **Status:** Evidence-led thought experiment. Not a medical recommendation or a claim of a new discovery.
 
 ![Conceptual illustration of marrow, immune-cell clearance, adipose tissue and gut microbes](assets/aging-battlefield-concept.png)
@@ -99,7 +99,49 @@ For example, what if we could preserve the ability of macrophages to clear dead 
 
 We don't yet know whether a combination of these ideas can materially slow human ageing. The challenge is to test them rigorously while avoiding the tempting but mistaken assumption that everything linked on a map is connected by cause and effect.
 
-## 10. Help us go walkabout
+## 10. The new immune-clearance battlefield: T cells, macrophages, CD47 and CD38 (19 November 2026)
+
+The preceding article asked whether ageing can be understood partly as a breakdown in normal maintenance. New work on **cellular senescence and pancreatic cancer** gives this question a more precise, testable form: **some unwanted cells may avoid clearance, while nearby immune cells become less effective or metabolically stressed**. The mechanisms are related, but not one proven universal cascade.
+
+### Two different immune-cell jobs
+
+- A **cytotoxic T cell** is a lymphocyte, a white blood cell. It can recognise a target via its T-cell receptor and kill using perforin and granzymes. **CAR-T cells** are T cells engineered to recognise selected surface markers. A circulating monocyte is also a white blood cell; many macrophages arise from monocytes, although some tissue macrophages develop from embryonic precursors.
+- A **macrophage** engulfs selected cells and debris (phagocytosis/efferocytosis), recycles material and may communicate with T cells through antigen-presentation networks. This cleanup can promote either protective immunity or immune tolerance, depending on context.
+
+A widely shared fluorescent-video demonstration of a yellow T cell striking a magenta tumour cell illustrates the *T-cell killing* stage, not macrophage phagocytosis. The video is not direct evidence of CD38, CD47, QPCTL or phosphatidylserine.
+
+### Where cancer and senescence overlap
+
+In cell and animal models, **senescent cells increased CD47** and the CD47-processing enzymes **QPCT/QPCTL**. These cells resisted engulfment and, through direct contact, reduced macrophages' ability to clear other apoptotic corpses. This contact-dependent effect was **independent of the senescence-associated secretory phenotype (SASP)** in that study [14].
+
+In a distinct 2026 pancreatic cancer study, **tumour IL-18 -> STAT1 -> CD47** promoted macrophage evasion. Reducing IL-18 in mouse models improved macrophage-mediated tumour clearance and KRAS-inhibitor effects [15].
+
+These studies show a *shared immune-evasion strategy*, not that senescent cells are cancerous. Senescence can prevent uncontrolled proliferation and assist wound healing; cancer cells, in contrast, escape cell-cycle growth controls.
+
+### A separate but potentially intersecting energy problem
+
+Other experiments show senescent-cell **SASP inflammatory signals** can increase **CD38-expressing macrophages**, contributing to tissue NAD+ consumption [2,3]. In a 2025 melanoma study, high CD38 in exhausted **CD8+ T cells** was associated with impaired NAD+ metabolism and resistance to immunotherapy in patient-derived tumour models [16].
+
+**Important separation:** CD47/QPCT(L) *cell-contact-mediated suppression of corpse clearance* and SASP -> macrophage CD38/NAD+ *secreted inflammatory signalling* are distinct experimentally supported mechanisms. They have **not** been demonstrated as one complete cause-and-effect loop in ageing humans. Neither study establishes that lower tissue NAD+ directly explains an individual person's tiredness.
+
+### Do we need to inhibit everything? No.
+
+We can investigate how to **restore, reveal and redirect** normal immunity:
+
+1. **Reveal an 'eat-me' signal:** in 2025 mouse pancreatic cancer models, altered pyrimidine metabolism promoted surface phosphatidylserine (PS) and macrophage uptake **without lowering CD47** [17]. PS is a lipid, not a protein, and persistent PS exposure can also support immune suppression.
+2. **Change how newly made CD47 functions:** QPCTL modifies CD47 during protein maturation so it binds macrophage SIRPα effectively. This suggests studying *production-line differences* between tumour cells and healthy tissues [18].
+3. **Retarget immune surveillance:** engineered uPAR-directed CAR-T cells cleared some senescent cells and improved several metabolic readouts in mice [10]. This is **not** an established anti-ageing treatment in humans.
+4. **Protect healthy cells:** red blood cells normally need CD47; mature red cells do not make new CD47, but developing red cells and other healthy nucleated cells do. A systemic intervention is not automatically safe.
+
+### Open invitation: join the Aging Battlefield
+
+If you work on T-cell exhaustion, macrophage efferocytosis, senescence, CD38/NAD+, CD47/SIRPalpha, QPCT/QPCTL, PS, or cancer immunology: **what have we missed?** Where does the shared mechanism really stop? Which experiment would prove or disprove a connection? What safety problem have we underestimated?
+
+This is an editorial research map, **not a clinical proposal**. Please bring *primary papers, contrary evidence, and testable ideas*. We will record corrections alongside the hypotheses rather than treating an attractive story as proof.
+
+**Related Aletheia research notes:** [Aletheia Ageing War: Inhibit the Inhibitors](https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-ageing-war-inhibit-the-inhibitors.md).
+
+## 11. Help us go walkabout
 
 This is the first **AletheiaGo** open research article, written through a human–AI investigation. It is an invitation, not a declaration of discovery.
 
@@ -128,6 +170,12 @@ Are you researching marrow fat, immune ageing, macrophage efferocytosis, cellula
 11. (2024). SGLT2 inhibition eliminates senescent cells and alleviates pathological aging. *Nature Aging*. https://www.nature.com/articles/s43587-024-00642-y
 12. (2025). A nitroalkene derivative of salicylate, SANA, induces creatine-dependent thermogenesis and promotes weight loss. *Nature Metabolism*. https://www.nature.com/articles/s42255-025-01311-z
 13. (2025). Bone marrow niches for hematopoietic stem cells in homeostasis and aging. *Experimental Hematology*. https://www.sciencedirect.com/science/article/pii/S0301472X25000402
+
+14. Schloesser D et al. (2023). Senescent cells suppress macrophage-mediated corpse removal via upregulation of the CD47-QPCT/L axis. *J Cell Biol*. https://doi.org/10.1083/jcb.202207097
+15. Sun X et al. (2026). Depletion of Endogenous IL-18 Suppresses Pancreatic Cancer Progression, Reprograms the Tumor Microenvironment, and Enhances KRAS Inhibitor Efficacy. *Gastroenterology*. https://doi.org/10.1053/j.gastro.2026.10.383
+16. Revach O-Y et al. (2025). Overcoming resistance to immunotherapy by targeting CD38 in human tumor explants. *Cell Reports Medicine*. https://doi.org/10.1016/j.xcrm.2025.102210
+17. Zhao J et al. (2025). Targeting plasticity in the pyrimidine synthesis pathway potentiates macrophage-mediated phagocytosis in pancreatic cancer models. *J Clin Invest*. https://doi.org/10.1172/JCI193370
+18. Logtenberg MEW et al. (2019). Glutaminyl cyclase is an enzymatic modifier of the CD47-SIRPalpha axis and a target for cancer immunotherapy. *Nature Medicine*. https://doi.org/10.1038/s41591-019-0356-z
 
 **Research integrity:** This is an editorial synthesis of published work, not a systematic review. All observational associations and experimental mechanisms must be independently replicated before being treated as general human causal relationships. No personal treatment recommendations are made.
 
