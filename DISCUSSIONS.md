@@ -55,6 +55,33 @@ The point is not that every dot is true. It is that together we can question and
 
 **Go Walkabout. From AletheIdea into AIxistence.**
 
+## Aletheia Go: research discussions
+
+Use the existing Aletheia Go category for research questions, hypotheses and evidence challenges; use Leave a Dot for early connections that may not yet justify a research thread. No new category or separate discussion platform is required.
+
+### Research thread template
+
+- **Question and scope:** What exactly are we investigating? Specify population, system, time period or conditions where relevant.
+- **Observation:** What was actually observed or reported, and by whom?
+- **Hypothesis:** What mechanism or explanation might connect the dots? Label speculation explicitly.
+- **Evidence:** Link original papers, data or technical documentation; record date, source location, study design, sample and limitations where applicable.
+- **Counterevidence:** What contradicts the hypothesis? What alternative explanations remain? What would falsify it?
+- **Independent review:** Ask another reviewer or AI to examine the original question and evidence before showing the initial conclusion. Record disagreements; AI agreement is not experimental replication.
+- **Evidence status:** Verified source claim, supported but not reproduced, reported observation, inference, hypothesis, unresolved conflict or unknown. Distinguish peer-reviewed papers, preprints, benchmarks and vendor announcements.
+- **Next step:** Specify a feasible check, a proposed test, a correction or a reason to stop. Do not claim a test has been performed without a receipt.
+- **Decision and revision:** Record the date, author/reviewer, links and reasons for changing or retaining the conclusion.
+
+### Research practice
+
+1. Discover a dot and check the original source.
+2. Go Walkabout to identify relevant adjacent work without treating association as causation.
+3. Form a bounded, falsifiable hypothesis and seek disconfirming evidence.
+4. Obtain independent review when the stakes warrant it; document access and evidence gaps.
+5. Reconcile findings, preserve unresolved disagreements and stop when evidence refutes the claim or further searching is not proportionate.
+6. A maintainer may promote reviewed findings into the canonical [Aletheia AI Knowledge](https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-ai-knowledge.md) or relevant domain knowledge, linking the discussion and recording provenance. Do not create duplicate knowledge cards. See AI-504, AI-513 and AI-514 and the [existing evaluation framework](https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-stanford-cme295.md).
+
+Public threads must not contain identifiable health records, confidential work material or private third-party data without appropriate permission. Medical hypotheses are research, not treatment advice. Respect copyright and link sources rather than copying full papers. Discussion contributions do not authorise experiments, deployment or source-file edits.
+
 ## Moderation and decision handling
 
 - GitHub repository maintainers alone approve changes to published source files.
