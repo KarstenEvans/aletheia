@@ -99,3 +99,7 @@ Public threads must not contain identifiable health records, confidential work m
 4. **🎭 Submit a Humour Key or Writer Vibe** (Humour Keys & Writer Vibes)
 
 **Technical note:** Create or rename discussion categories from the repository's Discussions tab. Files in this repository describe the proposed structure but do not automatically enable or configure GitHub Discussions.
+
+### Optional Aletheia Go scientific prediction exercise — MedChemBench (SCOUT S5, 24 November 2026)
+
+[OpenAI MedChemBench](https://openai.com/index/introducing-medchembench/) (20 November) uses retrospective medicinal chemistry problems involving structure, experimental evidence, ranking and property prediction. It is vendor-reported benchmark evidence, not prospective clinical validation. Apply the existing research template to a published non-sensitive example: freeze the evidence available at a defined cutoff, record a bounded prediction and competing explanation before revealing later findings, identify falsification criteria and compare independent reviews with the held-out outcome. Record provenance, experimental conditions, confounders, missing data and disagreements. Distinguish retrospective reconstruction from prospective prediction; neither AI consensus nor benchmark success establishes treatment efficacy. Use qualified review for consequential interpretation; no self-experiment or clinical recommendation follows.
