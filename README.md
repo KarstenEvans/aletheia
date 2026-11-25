@@ -39,6 +39,8 @@ Expect curiosity, practical tools, a little mythology, and humour where it helps
 
 ## Discovery for people and AI
 
+- [Aletheia Documentation](https://karstenevans.github.io/aletheia/docs/) — Markdown documentation, full-text snapshot, crawler diagnostics and GitHub Community links.
+
 - [Discovery directory](https://karstenevans.github.io/aletheia/discovery/) — browse independent projects, stories, original articles, PDFs, apps and eleven workflow skills.
 - [llms.txt](https://karstenevans.github.io/aletheia/llms.txt) — compact project AI guide.
 - [sites.xml](https://karstenevans.github.io/aletheia/sites.xml) — cross-project discovery catalogue including discussions, skill source and boot files; **not** a conventional search sitemap.

@@ -135,7 +135,8 @@
     "https://karstenevans.github.io/aletheia/articles/the-ai-mirror.html",
     "https://karstenevans.github.io/aletheia/articles/the-big-hug-theory.html",
     "https://karstenevans.github.io/aletheia/",
-    "https://karstenevans.github.io/aletheia/discovery/"
+    "https://karstenevans.github.io/aletheia/discovery/",
+    "https://karstenevans.github.io/aletheia/docs/"
   ],
   "entries": [
     {
@@ -3377,6 +3378,83 @@
       "url": "https://karstenevans.github.io/aletheia/AGENTS.md",
       "description": "Discovery resource.",
       "status": "planned in this publication batch; live recheck pending"
+    },
+    {
+      "category": "Documentation",
+      "title": "Aletheia Documentation",
+      "url": "https://karstenevans.github.io/aletheia/docs/",
+      "description": "Static documentation landing page",
+      "status": "source publication; live retest pending"
+    },
+    {
+      "category": "Documentation",
+      "title": "Documentation overview",
+      "url": "https://karstenevans.github.io/aletheia/docs/README.md",
+      "description": "Markdown overview",
+      "status": "source publication; live retest pending"
+    },
+    {
+      "category": "Documentation",
+      "title": "Crawler and retrieval diagnostics",
+      "url": "https://karstenevans.github.io/aletheia/docs/retrieval.md",
+      "description": "Evidence and reproducible tests",
+      "status": "source publication; live retest pending"
+    },
+    {
+      "category": "Documentation",
+      "title": "Community discussions guide",
+      "url": "https://karstenevans.github.io/aletheia/docs/community.md",
+      "description": "Aletheia and GitHub Community",
+      "status": "source publication; live retest pending"
+    },
+    {
+      "category": "Documentation",
+      "title": "GitBook pilot",
+      "url": "https://karstenevans.github.io/aletheia/docs/gitbook.md",
+      "description": "Free-first documentation pilot; no account or MCP deployment confirmed",
+      "status": "source publication; live retest pending"
+    },
+    {
+      "category": "Documentation",
+      "title": "Documentation navigation",
+      "url": "https://karstenevans.github.io/aletheia/docs/SUMMARY.md",
+      "description": "GitBook-ready Markdown navigation",
+      "status": "source publication; live retest pending"
+    },
+    {
+      "category": "Documentation",
+      "title": "Selected full-text documentation",
+      "url": "https://karstenevans.github.io/aletheia/llms-full.txt",
+      "description": "Complete selected core documentation and protocol snapshots",
+      "status": "source publication; live retest pending"
+    },
+    {
+      "category": "Documentation",
+      "title": "GitHub Community sitemap retrieval discussion",
+      "url": "https://github.com/orgs/community/discussions/149884",
+      "description": "Public community reports; not proof of a site-specific fault.",
+      "status": "public community link"
+    },
+    {
+      "category": "Documentation",
+      "title": "GitHub Community sitemap fetch troubleshooting",
+      "url": "https://github.com/orgs/community/discussions/199426",
+      "description": "Public community reports; not proof of a site-specific fault.",
+      "status": "public community link"
+    },
+    {
+      "category": "Documentation",
+      "title": "GitHub Community Pages 404 guide",
+      "url": "https://github.com/orgs/community/discussions/61073",
+      "description": "Public community reports; not proof of a site-specific fault.",
+      "status": "public community link"
+    },
+    {
+      "category": "Documentation",
+      "title": "GitHub Community discussions",
+      "url": "https://github.com/orgs/community/discussions",
+      "description": "Technical questions and developer discussion",
+      "status": "public community link"
     }
   ]
 }

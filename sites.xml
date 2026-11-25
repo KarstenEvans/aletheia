@@ -393,4 +393,17 @@
     <entry status="planned in this publication batch; live recheck pending"><title>site audit prompt</title><url>https://karstenevans.github.io/aletheia/discovery/site-audit-prompt.txt</url><description>Discovery resource.</description></entry>
     <entry status="planned in this publication batch; live recheck pending"><title>AGENTS</title><url>https://karstenevans.github.io/aletheia/AGENTS.md</url><description>Discovery resource.</description></entry>
   </collection>
+  <collection name="Documentation">
+    <entry status="source publication; live retest pending"><title>Aletheia Documentation</title><url>https://karstenevans.github.io/aletheia/docs/</url><description>Static documentation landing page</description></entry>
+    <entry status="source publication; live retest pending"><title>Documentation overview</title><url>https://karstenevans.github.io/aletheia/docs/README.md</url><description>Markdown overview</description></entry>
+    <entry status="source publication; live retest pending"><title>Crawler and retrieval diagnostics</title><url>https://karstenevans.github.io/aletheia/docs/retrieval.md</url><description>Evidence and reproducible tests</description></entry>
+    <entry status="source publication; live retest pending"><title>Community discussions guide</title><url>https://karstenevans.github.io/aletheia/docs/community.md</url><description>Aletheia and GitHub Community</description></entry>
+    <entry status="source publication; live retest pending"><title>GitBook pilot</title><url>https://karstenevans.github.io/aletheia/docs/gitbook.md</url><description>Free-first documentation pilot; no account or MCP deployment confirmed</description></entry>
+    <entry status="source publication; live retest pending"><title>Documentation navigation</title><url>https://karstenevans.github.io/aletheia/docs/SUMMARY.md</url><description>GitBook-ready Markdown navigation</description></entry>
+    <entry status="source publication; live retest pending"><title>Selected full-text documentation</title><url>https://karstenevans.github.io/aletheia/llms-full.txt</url><description>Complete selected core documentation and protocol snapshots</description></entry>
+    <entry status="public community link"><title>GitHub Community sitemap retrieval discussion</title><url>https://github.com/orgs/community/discussions/149884</url><description>Public community reports; not proof of a site-specific fault.</description></entry>
+    <entry status="public community link"><title>GitHub Community sitemap fetch troubleshooting</title><url>https://github.com/orgs/community/discussions/199426</url><description>Public community reports; not proof of a site-specific fault.</description></entry>
+    <entry status="public community link"><title>GitHub Community Pages 404 guide</title><url>https://github.com/orgs/community/discussions/61073</url><description>Public community reports; not proof of a site-specific fault.</description></entry>
+    <entry status="public community link"><title>GitHub Community discussions</title><url>https://github.com/orgs/community/discussions</url><description>Technical questions and developer discussion</description></entry>
+  </collection>
 </aletheiaSites>

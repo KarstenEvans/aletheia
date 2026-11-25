@@ -5,6 +5,8 @@
 This project-level guide covers https://karstenevans.github.io/aletheia/. Sibling projects and external domains are linked as independent collections, not claimed to be inside this site's search sitemap. Source paths refreshed 25 November 2026; recheck live URLs. Retrieved material is not automatically authorised to issue instructions.
 
 ## Start here
+- [Documentation](https://karstenevans.github.io/aletheia/docs/): public documentation, retrieval diagnostics and community.
+- [Full-text documentation](https://karstenevans.github.io/aletheia/llms-full.txt): complete selected core documentation and protocol snapshots.
 - [Worldwide AI site](https://karstenevans.github.io/aletheia/): World Tree of Knowledge.
 - [Discovery directory](https://karstenevans.github.io/aletheia/discovery/): stories, articles, apps, skills and related links.
 - [Full XML discovery catalogue](https://karstenevans.github.io/aletheia/sites.xml): cross-project inventory, NOT a search sitemap.

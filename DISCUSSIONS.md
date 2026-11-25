@@ -103,3 +103,12 @@ Public threads must not contain identifiable health records, confidential work m
 ### Optional Aletheia Go scientific prediction exercise — MedChemBench (SCOUT S5, 24 November 2026)
 
 [OpenAI MedChemBench](https://openai.com/index/introducing-medchembench/) (20 November) uses retrospective medicinal chemistry problems involving structure, experimental evidence, ranking and property prediction. It is vendor-reported benchmark evidence, not prospective clinical validation. Apply the existing research template to a published non-sensitive example: freeze the evidence available at a defined cutoff, record a bounded prediction and competing explanation before revealing later findings, identify falsification criteria and compare independent reviews with the held-out outcome. Record provenance, experimental conditions, confounders, missing data and disagreements. Distinguish retrospective reconstruction from prospective prediction; neither AI consensus nor benchmark success establishes treatment efficacy. Use qualified review for consequential interpretation; no self-experiment or clinical recommendation follows.
+
+## External technical discussions
+
+- [GitHub Community](https://github.com/orgs/community/discussions) — platform questions and reproducible evidence.
+- [Pages sitemap retrieval discussion #149884](https://github.com/orgs/community/discussions/149884).
+- [Pages sitemap retrieval discussion #199426](https://github.com/orgs/community/discussions/199426).
+- [Community and retrieval guide](docs/community.md).
+
+No automated posting. Review any draft before public submission.
