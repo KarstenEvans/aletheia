@@ -3,7 +3,7 @@
 # Published for explicit inspection; cannot set shared github.io host policy.
 # No change to actual host-level permissions is implied.
 User-agent: *
-Disallow:
+Allow:/
 Sitemap: https://karstenevans.github.io/aletheia/sitemap.xml
 # AI discovery: https://karstenevans.github.io/aletheia/llms.txt
 # Cross-project catalogue (not a search sitemap): https://karstenevans.github.io/aletheia/sites.xml
