@@ -37,6 +37,18 @@ Expect curiosity, practical tools, a little mythology, and humour where it helps
 
 **Aletheia Go** and **Articles** now have their own folder landing pages and published HTML manuscripts. Some additional courses and article formats remain in development. This hub is an index and front door, not a replacement for the individual repositories.
 
+## Discovery for people and AI
+
+- [Discovery directory](https://karstenevans.github.io/aletheia/discovery/) — browse independent projects, stories, original articles, PDFs, apps and eleven workflow skills.
+- [llms.txt](https://karstenevans.github.io/aletheia/llms.txt) — compact project AI guide.
+- [sites.xml](https://karstenevans.github.io/aletheia/sites.xml) — cross-project discovery catalogue including discussions, skill source and boot files; **not** a conventional search sitemap.
+- [sitemap.xml](https://karstenevans.github.io/aletheia/sitemap.xml) — canonical Worldwide project HTML and PDFs only.
+- [robots.txt](https://karstenevans.github.io/aletheia/robots.txt) — project-local advisory; standard crawlers use the hostname-root robots.txt, which this repository does not control.
+- [AInterest Prompter](https://karstenevans.github.io/aletheia/discovery/aletheia-AInterest-prompter.md) and [Site Audit prompt](https://karstenevans.github.io/aletheia/discovery/site-audit-prompt.txt) — independent, bounded, read-only reviews.
+- [Stories](https://karstenevans.github.io/aletheia-app/stories/) and [Eleven workflow skills](https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills) — independent collections.
+
+Search-engine cross-site submission requires appropriate property ownership; no claim of verified indexing. The discovery inventory is source-confirmed and requires live retesting after deployment.
+
 ## Join the community
 
 **[Aletheia Discussions: Leave a Dot](https://github.com/KarstenEvans/aletheia/discussions)** welcomes ideas, criticism, original humour keys, writer vibes, research references and app feedback. Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [Discussion guide](DISCUSSIONS.md). Visitors can suggest improvements; maintainers retain control of source files.
