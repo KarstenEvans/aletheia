@@ -1,0 +1,3382 @@
+{
+  "title": "Aletheia AI discovery catalogue",
+  "version": "2026-11-25",
+  "scope": "Cross-project catalogue, not a Google sitemap. Source-confirmed paths and linked destinations; live recheck pending.",
+  "sourceRevisions": {
+    "aletheia": "566b51d50073e52175f1c45880ec5bc84d41291f",
+    "aletheia-app": "a9b12a61c3004da1a676735c3c5d308601285815",
+    "aletheia-knowledge": "e491182a646ea8389282a01b34172729cea64fc3",
+    "aletheia-protocol": "c4cc94b288ce838e61e315192234b65c394fba7a",
+    "thalia-protocol": "47aee806208a8be4cdb8c04a3a1a1ea047d2622b",
+    "11-aletheia-enabled-workflow-skills": "39ba6221558173a9dd59653d4910c315967d14a5"
+  },
+  "boot": [
+    {
+      "order": 1,
+      "load": "first",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/aletheia-GUI.md"
+    },
+    {
+      "order": 2,
+      "load": "first",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-GUI.md"
+    },
+    {
+      "order": 3,
+      "load": "first",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/SwindonOrgUK/main/docs/swindonorguk-gui.md"
+    },
+    {
+      "order": 4,
+      "load": "first",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/ALETHEIA_PROTOCOL_SPECIFICATION_v0.5.md"
+    },
+    {
+      "order": 5,
+      "load": "first",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/thalia-protocol/main/THALIA_PROTOCOL.md"
+    },
+    {
+      "order": 6,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/ALETHEIA-SAFE-BOOTSTRAP.md"
+    },
+    {
+      "order": 7,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-ai-easy/aletheia-bootstrap.md"
+    },
+    {
+      "order": 8,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-dev.md"
+    },
+    {
+      "order": 9,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-code.md"
+    },
+    {
+      "order": 10,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/AGENTS.md"
+    },
+    {
+      "order": 11,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/ideas.md"
+    },
+    {
+      "order": 12,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/tasks.md"
+    },
+    {
+      "order": 13,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/SwindonOrgUK/main/README.md"
+    },
+    {
+      "order": 14,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/SwindonOrgUK/main/docs/code.md"
+    },
+    {
+      "order": 15,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/SwindonOrgUK/main/ideas.md"
+    },
+    {
+      "order": 16,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/SwindonOrgUK/main/tasks.md"
+    },
+    {
+      "order": 17,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/shared/aletheia-go-walkabout.md"
+    },
+    {
+      "order": 18,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-improve/aletheia-improve.md"
+    },
+    {
+      "order": 19,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-site-audit/aletheia-site-audit.md"
+    },
+    {
+      "order": 20,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-writing-vibe/aletheia-writing-vibe.md"
+    },
+    {
+      "order": 21,
+      "load": "on-demand",
+      "url": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-writing-vibe/aletheia-course-vibe.md"
+    }
+  ],
+  "sitemap": [
+    "https://karstenevans.github.io/aletheia/agents/",
+    "https://karstenevans.github.io/aletheia/ai-visibility/",
+    "https://karstenevans.github.io/aletheia/aletheia-go/01-the-aging-battlefield.html",
+    "https://karstenevans.github.io/aletheia/aletheia-go/01-the-aging-battlefield.pdf",
+    "https://karstenevans.github.io/aletheia/aletheia-go/02-the-asgard-files.html",
+    "https://karstenevans.github.io/aletheia/aletheia-go/02-the-gut-brain-fuel-switch.pdf",
+    "https://karstenevans.github.io/aletheia/aletheia-go/go-walkabout.htm",
+    "https://karstenevans.github.io/aletheia/aletheia-go/",
+    "https://karstenevans.github.io/aletheia/articles/Float-Scam-Tell-Them-Keep-the-Receipt.pdf",
+    "https://karstenevans.github.io/aletheia/articles/The_Big_Hug_Theory_Aletheia.pdf",
+    "https://karstenevans.github.io/aletheia/articles/float-scam.html",
+    "https://karstenevans.github.io/aletheia/articles/",
+    "https://karstenevans.github.io/aletheia/articles/make-a-will-family-handover-legacy.pdf",
+    "https://karstenevans.github.io/aletheia/articles/the-ai-mirror-house.pdf",
+    "https://karstenevans.github.io/aletheia/articles/the-ai-mirror.html",
+    "https://karstenevans.github.io/aletheia/articles/the-big-hug-theory.html",
+    "https://karstenevans.github.io/aletheia/",
+    "https://karstenevans.github.io/aletheia/discovery/"
+  ],
+  "entries": [
+    {
+      "category": "Worldwide sources",
+      "title": "ARTICLE FOOTER",
+      "url": "https://github.com/KarstenEvans/aletheia/blob/main/ARTICLE-FOOTER.md",
+      "repository": "aletheia",
+      "path": "ARTICLE-FOOTER.md",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/ARTICLE-FOOTER.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/ARTICLE-FOOTER.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Worldwide sources",
+      "title": "CODE OF CONDUCT",
+      "url": "https://github.com/KarstenEvans/aletheia/blob/main/CODE_OF_CONDUCT.md",
+      "repository": "aletheia",
+      "path": "CODE_OF_CONDUCT.md",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/CODE_OF_CONDUCT.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/CODE_OF_CONDUCT.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Worldwide sources",
+      "title": "DISCUSSIONS",
+      "url": "https://github.com/KarstenEvans/aletheia/blob/main/DISCUSSIONS.md",
+      "repository": "aletheia",
+      "path": "DISCUSSIONS.md",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/DISCUSSIONS.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/DISCUSSIONS.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Worldwide sources",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia/blob/main/README.md",
+      "repository": "aletheia",
+      "path": "README.md",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Worldwide sources",
+      "title": "WORLD TREE STORYWORLD",
+      "url": "https://github.com/KarstenEvans/aletheia/blob/main/WORLD-TREE-STORYWORLD.md",
+      "repository": "aletheia",
+      "path": "WORLD-TREE-STORYWORLD.md",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/WORLD-TREE-STORYWORLD.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/WORLD-TREE-STORYWORLD.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Worldwide sources",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia/blob/main/agents/README.md",
+      "repository": "aletheia",
+      "path": "agents/README.md",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/agents/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/agents/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Worldwide AI site",
+      "title": "Aletheia for AI Agents",
+      "url": "https://karstenevans.github.io/aletheia/agents/",
+      "repository": "aletheia",
+      "path": "agents/index.html",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/agents/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide sources",
+      "title": "topics",
+      "url": "https://karstenevans.github.io/aletheia/agents/topics.json",
+      "repository": "aletheia",
+      "path": "agents/topics.json",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/agents/topics.json",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/agents/topics.json",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide AI site",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia/ai-visibility/",
+      "repository": "aletheia",
+      "path": "ai-visibility/index.html",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/ai-visibility/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide sources",
+      "title": "aletheia GUI",
+      "url": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-GUI.md",
+      "repository": "aletheia",
+      "path": "aletheia-GUI.md",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-GUI.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/aletheia-GUI.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Worldwide AI site",
+      "title": "01 the aging battlefield",
+      "url": "https://karstenevans.github.io/aletheia/aletheia-go/01-the-aging-battlefield.html",
+      "repository": "aletheia",
+      "path": "aletheia-go/01-the-aging-battlefield.html",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-go/01-the-aging-battlefield.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide sources",
+      "title": "01 the aging battlefield",
+      "url": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-go/01-the-aging-battlefield.md",
+      "repository": "aletheia",
+      "path": "aletheia-go/01-the-aging-battlefield.md",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-go/01-the-aging-battlefield.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/aletheia-go/01-the-aging-battlefield.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Worldwide PDFs",
+      "title": "01 the aging battlefield",
+      "url": "https://karstenevans.github.io/aletheia/aletheia-go/01-the-aging-battlefield.pdf",
+      "repository": "aletheia",
+      "path": "aletheia-go/01-the-aging-battlefield.pdf",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-go/01-the-aging-battlefield.pdf",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide AI site",
+      "title": "02 the asgard files",
+      "url": "https://karstenevans.github.io/aletheia/aletheia-go/02-the-asgard-files.html",
+      "repository": "aletheia",
+      "path": "aletheia-go/02-the-asgard-files.html",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-go/02-the-asgard-files.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide sources",
+      "title": "02 the asgard files",
+      "url": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-go/02-the-asgard-files.md",
+      "repository": "aletheia",
+      "path": "aletheia-go/02-the-asgard-files.md",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-go/02-the-asgard-files.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/aletheia-go/02-the-asgard-files.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Worldwide PDFs",
+      "title": "02 the gut brain fuel switch",
+      "url": "https://karstenevans.github.io/aletheia/aletheia-go/02-the-gut-brain-fuel-switch.pdf",
+      "repository": "aletheia",
+      "path": "aletheia-go/02-the-gut-brain-fuel-switch.pdf",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-go/02-the-gut-brain-fuel-switch.pdf",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide sources",
+      "title": "03 evidence map",
+      "url": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-go/03-evidence-map.md",
+      "repository": "aletheia",
+      "path": "aletheia-go/03-evidence-map.md",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-go/03-evidence-map.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/aletheia-go/03-evidence-map.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Worldwide sources",
+      "title": "aletheia gowalkabout",
+      "url": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-go/aletheia-gowalkabout.md",
+      "repository": "aletheia",
+      "path": "aletheia-go/aletheia-gowalkabout.md",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-go/aletheia-gowalkabout.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/aletheia-go/aletheia-gowalkabout.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Worldwide AI site",
+      "title": "go walkabout",
+      "url": "https://karstenevans.github.io/aletheia/aletheia-go/go-walkabout.htm",
+      "repository": "aletheia",
+      "path": "aletheia-go/go-walkabout.htm",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-go/go-walkabout.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide AI site",
+      "title": "Aletheia Go",
+      "url": "https://karstenevans.github.io/aletheia/aletheia-go/",
+      "repository": "aletheia",
+      "path": "aletheia-go/index.html",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/aletheia-go/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide PDFs",
+      "title": "Float Scam Tell Them Keep the Receipt",
+      "url": "https://karstenevans.github.io/aletheia/articles/Float-Scam-Tell-Them-Keep-the-Receipt.pdf",
+      "repository": "aletheia",
+      "path": "articles/Float-Scam-Tell-Them-Keep-the-Receipt.pdf",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/articles/Float-Scam-Tell-Them-Keep-the-Receipt.pdf",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide PDFs",
+      "title": "The Big Hug Theory Aletheia",
+      "url": "https://karstenevans.github.io/aletheia/articles/The_Big_Hug_Theory_Aletheia.pdf",
+      "repository": "aletheia",
+      "path": "articles/The_Big_Hug_Theory_Aletheia.pdf",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/articles/The_Big_Hug_Theory_Aletheia.pdf",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide AI site",
+      "title": "float scam",
+      "url": "https://karstenevans.github.io/aletheia/articles/float-scam.html",
+      "repository": "aletheia",
+      "path": "articles/float-scam.html",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/articles/float-scam.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide AI site",
+      "title": "Aletheia Articles",
+      "url": "https://karstenevans.github.io/aletheia/articles/",
+      "repository": "aletheia",
+      "path": "articles/index.html",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/articles/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide sources",
+      "title": "make a will family handover legacy",
+      "url": "https://github.com/KarstenEvans/aletheia/blob/main/articles/make-a-will-family-handover-legacy.md",
+      "repository": "aletheia",
+      "path": "articles/make-a-will-family-handover-legacy.md",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/articles/make-a-will-family-handover-legacy.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/articles/make-a-will-family-handover-legacy.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Worldwide PDFs",
+      "title": "make a will family handover legacy",
+      "url": "https://karstenevans.github.io/aletheia/articles/make-a-will-family-handover-legacy.pdf",
+      "repository": "aletheia",
+      "path": "articles/make-a-will-family-handover-legacy.pdf",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/articles/make-a-will-family-handover-legacy.pdf",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide PDFs",
+      "title": "the ai mirror house",
+      "url": "https://karstenevans.github.io/aletheia/articles/the-ai-mirror-house.pdf",
+      "repository": "aletheia",
+      "path": "articles/the-ai-mirror-house.pdf",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/articles/the-ai-mirror-house.pdf",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide AI site",
+      "title": "the ai mirror",
+      "url": "https://karstenevans.github.io/aletheia/articles/the-ai-mirror.html",
+      "repository": "aletheia",
+      "path": "articles/the-ai-mirror.html",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/articles/the-ai-mirror.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide sources",
+      "title": "the ai mirror",
+      "url": "https://github.com/KarstenEvans/aletheia/blob/main/articles/the-ai-mirror.md",
+      "repository": "aletheia",
+      "path": "articles/the-ai-mirror.md",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/articles/the-ai-mirror.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/articles/the-ai-mirror.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Worldwide AI site",
+      "title": "the big hug theory",
+      "url": "https://karstenevans.github.io/aletheia/articles/the-big-hug-theory.html",
+      "repository": "aletheia",
+      "path": "articles/the-big-hug-theory.html",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/articles/the-big-hug-theory.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Worldwide sources",
+      "title": "the big hug theory",
+      "url": "https://github.com/KarstenEvans/aletheia/blob/main/articles/the-big-hug-theory.md",
+      "repository": "aletheia",
+      "path": "articles/the-big-hug-theory.md",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/articles/the-big-hug-theory.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia/main/articles/the-big-hug-theory.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Worldwide AI site",
+      "title": "Aletheia, the Worldwide AI site",
+      "url": "https://karstenevans.github.io/aletheia/",
+      "repository": "aletheia",
+      "path": "index.html",
+      "source": "https://github.com/KarstenEvans/aletheia/blob/main/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Community",
+      "title": "Aletheia Discussions — Leave a Dot",
+      "url": "https://github.com/KarstenEvans/aletheia/discussions",
+      "description": "Public discussion and original research questions; no automated posting.",
+      "status": "public link; live recheck pending"
+    },
+    {
+      "category": "Community",
+      "title": "Discussion 3",
+      "url": "https://github.com/KarstenEvans/aletheia/discussions/3",
+      "description": "Linked from existing AI Agents page.",
+      "status": "public link; live recheck pending"
+    },
+    {
+      "category": "Community",
+      "title": "Discussion 4",
+      "url": "https://github.com/KarstenEvans/aletheia/discussions/4",
+      "description": "Linked from existing AI Agents page.",
+      "status": "public link; live recheck pending"
+    },
+    {
+      "category": "Community",
+      "title": "Discussion 5",
+      "url": "https://github.com/KarstenEvans/aletheia/discussions/5",
+      "description": "Linked from existing AI Agents page.",
+      "status": "public link; live recheck pending"
+    },
+    {
+      "category": "Community",
+      "title": "Discussion 6",
+      "url": "https://github.com/KarstenEvans/aletheia/discussions/6",
+      "description": "Linked from existing AI Agents page.",
+      "status": "public link; live recheck pending"
+    },
+    {
+      "category": "Community",
+      "title": "Discussion 7",
+      "url": "https://github.com/KarstenEvans/aletheia/discussions/7",
+      "description": "Linked from existing AI Agents page.",
+      "status": "public link; live recheck pending"
+    },
+    {
+      "category": "Community",
+      "title": "Discussion 8",
+      "url": "https://github.com/KarstenEvans/aletheia/discussions/8",
+      "description": "Linked from existing AI Agents page.",
+      "status": "public link; live recheck pending"
+    },
+    {
+      "category": "Community",
+      "title": "Discussion 9",
+      "url": "https://github.com/KarstenEvans/aletheia/discussions/9",
+      "description": "Linked from existing AI Agents page.",
+      "status": "public link; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Aletheia Apps",
+      "url": "https://karstenevans.github.io/aletheia-app/",
+      "repository": "aletheia-app",
+      "path": "index.html",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Make a Will",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-make-a-will/aletheia-make-a-will.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-make-a-will/aletheia-make-a-will.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-make-a-will/aletheia-make-a-will.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Simple family wills, a private handover, DIY probate and long-term family legacy planning. England and Wales; private browser forms.",
+      "tags": "make a will family handover probate mortgage bereavement widow widower inheritance trust estate planning"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Make a Will — Markdown",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-make-a-will/aletheia-make-a-will.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-make-a-will/aletheia-make-a-will.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-make-a-will/aletheia-make-a-will.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-make-a-will/aletheia-make-a-will.md",
+      "status": "repository source confirmed",
+      "description": "Simple family wills, a private handover, DIY probate and long-term family legacy planning. England and Wales; private browser forms.",
+      "tags": "make a will family handover probate mortgage bereavement widow widower inheritance trust estate planning"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Make a Will — resources",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-make-a-will/aletheia-make-a-will-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-make-a-will/aletheia-make-a-will-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-make-a-will/aletheia-make-a-will-rsc.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Simple family wills, a private handover, DIY probate and long-term family legacy planning. England and Wales; private browser forms.",
+      "tags": "make a will family handover probate mortgage bereavement widow widower inheritance trust estate planning"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "What’s On",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-whatson/aletheia-whatson.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-whatson/aletheia-whatson.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-whatson/aletheia-whatson.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Discover the local sights, shows, culture, food, history, markets and events of any city worldwide with your chosen AI.",
+      "tags": "whatson whats on history tourism attractions cinema theatre art food fairs walks shopping"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Trust Check",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-trust-check/aletheia-trust-check.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-trust-check/aletheia-trust-check.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-trust-check/aletheia-trust-check.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Paste a post, factual claim or website and prepare a source-led check in your chosen AI. Download the portable Markdown app.",
+      "tags": "trust check fact check facts linkedin post scam fake news evidence"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Trust Check",
+      "url": "https://karstenevans.github.io/aletheia-app/integrations/aletheia-trust-check/index.htm",
+      "repository": "aletheia-app",
+      "path": "integrations/aletheia-trust-check/index.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/integrations/aletheia-trust-check/index.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Paste a post, factual claim or website and prepare a source-led check in your chosen AI. Download the portable Markdown app.",
+      "tags": "trust check fact check facts linkedin post scam fake news evidence"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Storyteller",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-storyteller.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-storyteller.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-storyteller.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Select and listen to illustrated adventures and character biographies.",
+      "tags": "storyteller"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Calisthenics Story Workouts",
+      "url": "https://karstenevans.github.io/aletheia-app/Aletheia-calistenics/Aleteheia-calistenics.htm",
+      "repository": "aletheia-app",
+      "path": "Aletheia-calistenics/Aleteheia-calistenics.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/Aletheia-calistenics/Aleteheia-calistenics.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Guided bodyweight workouts with narration, countdowns, rest facts, generated Zen music and Mitten.",
+      "tags": "calisthenics fitness exercise cats story workout"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "1. AI Easy",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-ai-easy/aletheia-setup.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-ai-easy/aletheia-setup.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-ai-easy/aletheia-setup.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Start here: set up your chosen AI and optional portable memory. Free first.",
+      "tags": "ai easy start setup memory"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "2. Assistant (Sif)",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-assistant/aletheia-assistant.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-assistant/aletheia-assistant.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-assistant/aletheia-assistant.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Then, if you like, use Sif to ask questions, choose tasks and open Aletheia apps.",
+      "tags": "assistant sif task voice help"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Voice Studio & VoiceVibes",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-voice-studio/index.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-voice-studio/index.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-voice-studio/index.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Describe original voices, record consent-based samples, export WAV files, and browse portable voice-profile descriptions. Audio samples in the public library are still pending upload.",
+      "tags": "voice studio voice vibe recording audio tts qwen character vibe speech"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Voice Studio & VoiceVibes",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-voice-studio/voice-vibes/index.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-voice-studio/voice-vibes/index.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-voice-studio/voice-vibes/index.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Describe original voices, record consent-based samples, export WAV files, and browse portable voice-profile descriptions. Audio samples in the public library are still pending upload.",
+      "tags": "voice studio voice vibe recording audio tts qwen character vibe speech"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Avatar",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-avatar/aletheia-avatar.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-avatar/aletheia-avatar.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-avatar/aletheia-avatar.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Explore the Aletheia avatar prototype.",
+      "tags": "avatar"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Chess",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-chess/aletheia-chess.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-chess/aletheia-chess.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-chess/aletheia-chess.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Play Aletheia Chess.",
+      "tags": "chess"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Decision Check",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-decision-check/aletheia-decision-check.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-decision-check/aletheia-decision-check.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-decision-check/aletheia-decision-check.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Structure a decision through assumptions, evidence, challenge, pre-mortem, uncertainty and an explicit STOP point.",
+      "tags": "decision check judgment evidence quiet mode"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Job Search",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-job-search/aletheia-job-search.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-job-search/aletheia-job-search.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-job-search/aletheia-job-search.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Find evidence-checked jobs worldwide, compare CVs with vacancies, improve LinkedIn and practise interviews using your own AI.",
+      "tags": "job search employment jobs vacancies cv linkedin ats interview careers"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Improve",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-improve/aletheia-improve.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-improve/aletheia-improve.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-improve/aletheia-improve.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Review and improve Aletheia projects using their current specifications.",
+      "tags": "improve"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Love Translator",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-love-translator/aletheia-love-translator.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-love-translator/aletheia-love-translator.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-love-translator/aletheia-love-translator.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "A browser interface for translation.",
+      "tags": "love translator"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "News",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-news/aletheia-news.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-news/aletheia-news.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-news/aletheia-news.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Read the Aletheia news interface.",
+      "tags": "news"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Three.js Animation",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-threejs-animation/aletheia-threejs-animation.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-threejs-animation/aletheia-threejs-animation.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-threejs-animation/aletheia-threejs-animation.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Explore the experimental cinematic animation.",
+      "tags": "three.js animation"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Windows Debloat",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-windows-debloat/aletheia-windows-debloat.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-windows-debloat/aletheia-windows-debloat.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-windows-debloat/aletheia-windows-debloat.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Browse the Windows guide and supporting tools.",
+      "tags": "windows debloat"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Work",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-work-app/aletheia-work.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-work-app/aletheia-work.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-work-app/aletheia-work.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Open the Aletheia Work app.",
+      "tags": "work"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Writing Vibe",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-writing-vibe/aletheia-writing-vibe.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-writing-vibe/aletheia-writing-vibe.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-writing-vibe/aletheia-writing-vibe.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Explore public writing-style research.",
+      "tags": "writing vibe"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Agent Budget — Markdown",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-agent-budget/aletheia-agent-budget.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-agent-budget/aletheia-agent-budget.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-agent-budget/aletheia-agent-budget.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-agent-budget/aletheia-agent-budget.md",
+      "status": "repository source confirmed",
+      "description": "Portable Markdown agent budget instructions; not a standalone HTML app.",
+      "tags": "agent budget"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Language Learn — Markdown",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-language-learn/aletheia-language-learn.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-language-learn/aletheia-language-learn.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-language-learn/aletheia-language-learn.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-language-learn/aletheia-language-learn.md",
+      "status": "repository source confirmed",
+      "description": "Portable Markdown language-learning instructions; not a standalone HTML app.",
+      "tags": "language learn"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Shopping",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-shop-price-app/aletheia-shop-price-app.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-shop-price-app/aletheia-shop-price-app.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-shop-price-app/aletheia-shop-price-app.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Edit shopping templates and ask an AI for current prices. See three cheapest verified-by-source items or complete baskets, and keep optional local history.",
+      "tags": "shopping shop price grocery diy cars sports books gifts barcode compare"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Site Audit",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-site-audit/aletheia-site-audit.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-site-audit/aletheia-site-audit.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-site-audit/aletheia-site-audit.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Free evidence-first website audit launcher, with optional Google/Bing search intelligence and an Affiliate Tools directory.",
+      "tags": "site audit affiliate tools"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Site Audit",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-site-audit/affiliate-tools.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-site-audit/affiliate-tools.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-site-audit/affiliate-tools.htm",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Free evidence-first website audit launcher, with optional Google/Bing search intelligence and an Affiliate Tools directory.",
+      "tags": "site audit affiliate tools"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Site Audit — Markdown",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-site-audit/aletheia-site-audit.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-site-audit/aletheia-site-audit.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-site-audit/aletheia-site-audit.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-site-audit/aletheia-site-audit.md",
+      "status": "repository source confirmed",
+      "description": "Free evidence-first website audit launcher, with optional Google/Bing search intelligence and an Affiliate Tools directory.",
+      "tags": "site audit affiliate tools"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "Aleteheia calistenics rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/Aletheia-calistenics/Aleteheia-calistenics-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "Aletheia-calistenics/Aleteheia-calistenics-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/Aletheia-calistenics/Aleteheia-calistenics-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia-app/Mini-AI-Me/",
+      "repository": "aletheia-app",
+      "path": "Mini-AI-Me/index.html",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/Mini-AI-Me/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "mini ai me rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/Mini-AI-Me/mini-ai-me-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "Mini-AI-Me/mini-ai-me-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/Mini-AI-Me/mini-ai-me-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia terry pratchett rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/Writers/aletheia-terry-pratchett-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "Writers/aletheia-terry-pratchett-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/Writers/aletheia-terry-pratchett-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia terry pratchett",
+      "url": "https://karstenevans.github.io/aletheia-app/Writers/aletheia-terry-pratchett.htm",
+      "repository": "aletheia-app",
+      "path": "Writers/aletheia-terry-pratchett.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/Writers/aletheia-terry-pratchett.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia-app/Writers/",
+      "repository": "aletheia-app",
+      "path": "Writers/index.html",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/Writers/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Collection manifests",
+      "title": "writers",
+      "url": "https://karstenevans.github.io/aletheia-app/Writers/writers.json",
+      "repository": "aletheia-app",
+      "path": "Writers/writers.json",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/Writers/writers.json",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/Writers/writers.json",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-ai-easy/README.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-ai-easy/README.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-ai-easy/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-ai-easy/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia bootstrap",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-ai-easy/aletheia-bootstrap.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-ai-easy/aletheia-bootstrap.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-ai-easy/aletheia-bootstrap.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-ai-easy/aletheia-bootstrap.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia memory template",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-ai-easy/aletheia-memory-template.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-ai-easy/aletheia-memory-template.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-ai-easy/aletheia-memory-template.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-ai-easy/aletheia-memory-template.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia ai lab",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-ai-lab/aletheia-ai-lab.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-ai-lab/aletheia-ai-lab.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-ai-lab/aletheia-ai-lab.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-ai-lab/aletheia-ai-lab.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-assistant/README.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-assistant/README.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-assistant/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-assistant/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia assistant rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-assistant/aletheia-assistant-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-assistant/aletheia-assistant-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-assistant/aletheia-assistant-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia assistant",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-assistant/aletheia-assistant.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-assistant/aletheia-assistant.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-assistant/aletheia-assistant.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-assistant/aletheia-assistant.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-avatar/README.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-avatar/README.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-avatar/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-avatar/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia avatar rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-avatar/aletheia-avatar-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-avatar/aletheia-avatar-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-avatar/aletheia-avatar-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia avatar",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-avatar/aletheia-avatar.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-avatar/aletheia-avatar.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-avatar/aletheia-avatar.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-avatar/aletheia-avatar.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia chess rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-chess/aletheia-chess-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-chess/aletheia-chess-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-chess/aletheia-chess-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia chess",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-chess/aletheia-chess.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-chess/aletheia-chess.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-chess/aletheia-chess.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-chess/aletheia-chess.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-clippipe/README.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-clippipe/README.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-clippipe/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-clippipe/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-clippipe/",
+      "repository": "aletheia-app",
+      "path": "aletheia-clippipe/index.html",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-clippipe/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia decision check",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-decision-check/aletheia-decision-check.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-decision-check/aletheia-decision-check.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-decision-check/aletheia-decision-check.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-decision-check/aletheia-decision-check.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-frequency-explorer/README.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-frequency-explorer/README.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-frequency-explorer/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-frequency-explorer/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia frequency explorer rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-frequency-explorer/aletheia-frequency-explorer-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-frequency-explorer/aletheia-frequency-explorer-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-frequency-explorer/aletheia-frequency-explorer-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia frequency explorer",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-frequency-explorer/aletheia-frequency-explorer.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-frequency-explorer/aletheia-frequency-explorer.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-frequency-explorer/aletheia-frequency-explorer.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia frequency explorer",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-frequency-explorer/aletheia-frequency-explorer.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-frequency-explorer/aletheia-frequency-explorer.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-frequency-explorer/aletheia-frequency-explorer.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-frequency-explorer/aletheia-frequency-explorer.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Collection manifests",
+      "title": "stories",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-frequency-explorer/stories/stories.json",
+      "repository": "aletheia-app",
+      "path": "aletheia-frequency-explorer/stories/stories.json",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-frequency-explorer/stories/stories.json",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-frequency-explorer/stories/stories.json",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-government-intelligence/README.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-government-intelligence/README.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-government-intelligence/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-government-intelligence/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia government intelligence rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-government-intelligence/aletheia-government-intelligence-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-government-intelligence/aletheia-government-intelligence-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-government-intelligence/aletheia-government-intelligence-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia government intelligence",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-government-intelligence/aletheia-government-intelligence.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-government-intelligence/aletheia-government-intelligence.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-government-intelligence/aletheia-government-intelligence.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia government intelligence",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-government-intelligence/aletheia-government-intelligence.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-government-intelligence/aletheia-government-intelligence.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-government-intelligence/aletheia-government-intelligence.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-government-intelligence/aletheia-government-intelligence.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-hits/README.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-hits/README.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-hits/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-hits/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia hits",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-hits/aletheia-hits.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-hits/aletheia-hits.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-hits/aletheia-hits.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-hits/aletheia-hits.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Collection manifests",
+      "title": "hits",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-hits/hits.json",
+      "repository": "aletheia-app",
+      "path": "aletheia-hits/hits.json",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-hits/hits.json",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-hits/hits.json",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia argument room rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-humour/sketches/argument-room/aletheia-argument-room-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-humour/sketches/argument-room/aletheia-argument-room-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-humour/sketches/argument-room/aletheia-argument-room-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia argument room",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-humour/sketches/argument-room/aletheia-argument-room.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-humour/sketches/argument-room/aletheia-argument-room.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-humour/sketches/argument-room/aletheia-argument-room.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia bridge guardian rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-humour/sketches/bridge-guardian/aletheia-bridge-guardian-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-humour/sketches/bridge-guardian/aletheia-bridge-guardian-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-humour/sketches/bridge-guardian/aletheia-bridge-guardian-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia bridge guardian",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-humour/sketches/bridge-guardian/aletheia-bridge-guardian.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-humour/sketches/bridge-guardian/aletheia-bridge-guardian.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-humour/sketches/bridge-guardian/aletheia-bridge-guardian.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-humour/sketches/index.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-humour/sketches/index.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-humour/sketches/index.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-improve/README.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-improve/README.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-improve/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-improve/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia improve evaluation pilot 2026 10 15",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-improve/aletheia-improve-evaluation-pilot-2026-10-15.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-improve/aletheia-improve-evaluation-pilot-2026-10-15.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-improve/aletheia-improve-evaluation-pilot-2026-10-15.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-improve/aletheia-improve-evaluation-pilot-2026-10-15.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia improve protocol regression 2026 10 15",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-improve/aletheia-improve-protocol-regression-2026-10-15.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-improve/aletheia-improve-protocol-regression-2026-10-15.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-improve/aletheia-improve-protocol-regression-2026-10-15.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-improve/aletheia-improve-protocol-regression-2026-10-15.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia improve rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-improve/aletheia-improve-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-improve/aletheia-improve-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-improve/aletheia-improve-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia job search rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-job-search/aletheia-job-search-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-job-search/aletheia-job-search-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-job-search/aletheia-job-search-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia job search",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-job-search/aletheia-job-search.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-job-search/aletheia-job-search.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-job-search/aletheia-job-search.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-job-search/aletheia-job-search.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia language learn rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-language-learn/aletheia-language-learn-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-language-learn/aletheia-language-learn-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-language-learn/aletheia-language-learn-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia language learn",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-language-learn/aletheia-language-learn.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-language-learn/aletheia-language-learn.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-language-learn/aletheia-language-learn.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia ai course",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-learn/aletheia-ai-course.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-learn/aletheia-ai-course.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-learn/aletheia-ai-course.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia ai for seniors",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-learn/aletheia-ai-for-seniors.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-learn/aletheia-ai-for-seniors.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-learn/aletheia-ai-for-seniors.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-learn/aletheia-ai-for-seniors.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia learn ai fluency rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-learn/aletheia-learn-ai-fluency-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-learn/aletheia-learn-ai-fluency-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-learn/aletheia-learn-ai-fluency-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia learn ai fluency",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-learn/aletheia-learn-ai-fluency.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-learn/aletheia-learn-ai-fluency.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-learn/aletheia-learn-ai-fluency.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia learn ai fluency",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-learn/aletheia-learn-ai-fluency.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-learn/aletheia-learn-ai-fluency.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-learn/aletheia-learn-ai-fluency.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-learn/aletheia-learn-ai-fluency.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia learn mirror filters lesson",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-learn/aletheia-learn-mirror-filters-lesson.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-learn/aletheia-learn-mirror-filters-lesson.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-learn/aletheia-learn-mirror-filters-lesson.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-learn/aletheia-learn-mirror-filters-lesson.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia learn rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-learn/aletheia-learn-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-learn/aletheia-learn-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-learn/aletheia-learn-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia learn",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-learn/aletheia-learn.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-learn/aletheia-learn.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-learn/aletheia-learn.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia learn",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-learn/aletheia-learn.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-learn/aletheia-learn.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-learn/aletheia-learn.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-learn/aletheia-learn.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia love translator rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-love-translator/aletheia-love-translator-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-love-translator/aletheia-love-translator-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-love-translator/aletheia-love-translator-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia love translator",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-love-translator/aletheia-love-translator.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-love-translator/aletheia-love-translator.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-love-translator/aletheia-love-translator.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-love-translator/aletheia-love-translator.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia news rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-news/aletheia-news-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-news/aletheia-news-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-news/aletheia-news-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia news",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-news/aletheia-news.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-news/aletheia-news.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-news/aletheia-news.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-news/aletheia-news.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-rice-intelligence/README.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-rice-intelligence/README.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-rice-intelligence/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-rice-intelligence/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia rice intelligence",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-rice-intelligence/aletheia-rice-intelligence.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-rice-intelligence/aletheia-rice-intelligence.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-rice-intelligence/aletheia-rice-intelligence.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia rice intelligence",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-rice-intelligence/aletheia-rice-intelligence.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-rice-intelligence/aletheia-rice-intelligence.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-rice-intelligence/aletheia-rice-intelligence.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-rice-intelligence/aletheia-rice-intelligence.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia shop price app rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-shop-price-app/aletheia-shop-price-app-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-shop-price-app/aletheia-shop-price-app-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-shop-price-app/aletheia-shop-price-app-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia shop price app",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-shop-price-app/aletheia-shop-price-app.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-shop-price-app/aletheia-shop-price-app.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-shop-price-app/aletheia-shop-price-app.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-shop-price-app/aletheia-shop-price-app.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia storyteller ai finished rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-storyteller-ai-finished-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-storyteller-ai-finished-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-storyteller-ai-finished-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia storyteller rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-storyteller-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-storyteller-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-storyteller-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia storyteller sunday rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-storyteller-sunday-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-storyteller-sunday-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-storyteller-sunday-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia threejs animation code",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-threejs-animation/aletheia-threejs-animation-code.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-threejs-animation/aletheia-threejs-animation-code.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-threejs-animation/aletheia-threejs-animation-code.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-threejs-animation/aletheia-threejs-animation-code.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Other publications",
+      "title": "aletheia threejs animation",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-threejs-animation/aletheia-threejs-animation.pdf",
+      "repository": "aletheia-app",
+      "path": "aletheia-threejs-animation/aletheia-threejs-animation.pdf",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-threejs-animation/aletheia-threejs-animation.pdf",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-trust-check/README.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-trust-check/README.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-trust-check/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-trust-check/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia trust check rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-trust-check/aletheia-trust-check-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-trust-check/aletheia-trust-check-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-trust-check/aletheia-trust-check-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia trust check",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-trust-check/aletheia-trust-check.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-trust-check/aletheia-trust-check.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-trust-check/aletheia-trust-check.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-trust-check/aletheia-trust-check.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-voice-studio/README.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-voice-studio/README.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-voice-studio/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-voice-studio/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia voice studio",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-voice-studio/aletheia-voice-studio.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-voice-studio/aletheia-voice-studio.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-voice-studio/aletheia-voice-studio.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia voice studio",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-voice-studio/aletheia-voice-studio.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-voice-studio/aletheia-voice-studio.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-voice-studio/aletheia-voice-studio.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-voice-studio/aletheia-voice-studio.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Collection manifests",
+      "title": "voices",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-voice-studio/voice-vibes/voices.json",
+      "repository": "aletheia-app",
+      "path": "aletheia-voice-studio/voice-vibes/voices.json",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-voice-studio/voice-vibes/voices.json",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-voice-studio/voice-vibes/voices.json",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia whats on",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-whats-on/aletheia-whats-on.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-whats-on/aletheia-whats-on.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-whats-on/aletheia-whats-on.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia whats on",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-whats-on/aletheia-whats-on.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-whats-on/aletheia-whats-on.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-whats-on/aletheia-whats-on.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-whats-on/aletheia-whats-on.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia whatson rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-whatson/aletheia-whatson-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-whatson/aletheia-whatson-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-whatson/aletheia-whatson-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia whatson",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-whatson/aletheia-whatson.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-whatson/aletheia-whatson.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-whatson/aletheia-whatson.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-whatson/aletheia-whatson.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia windows debloat",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-windows-debloat/aletheia-windows-debloat.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-windows-debloat/aletheia-windows-debloat.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-windows-debloat/aletheia-windows-debloat.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-windows-debloat/aletheia-windows-debloat.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "windows rescue storage upgrade",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-windows-debloat/windows-rescue-storage-upgrade.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-windows-debloat/windows-rescue-storage-upgrade.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-windows-debloat/windows-rescue-storage-upgrade.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia work",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-work-app/aletheia-work.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-work-app/aletheia-work.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-work-app/aletheia-work.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-work-app/aletheia-work.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia course vibe",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-writing-vibe/aletheia-course-vibe.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-writing-vibe/aletheia-course-vibe.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-writing-vibe/aletheia-course-vibe.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-writing-vibe/aletheia-course-vibe.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "aletheia writing vibe rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-writing-vibe/aletheia-writing-vibe-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "aletheia-writing-vibe/aletheia-writing-vibe-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-writing-vibe/aletheia-writing-vibe-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Portable workflows",
+      "title": "aletheia writing vibe",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-writing-vibe/aletheia-writing-vibe.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-writing-vibe/aletheia-writing-vibe.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-writing-vibe/aletheia-writing-vibe.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-writing-vibe/aletheia-writing-vibe.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Apps and tools",
+      "title": "halloween gifts",
+      "url": "https://karstenevans.github.io/aletheia-app/seasonal/halloween-gifts.htm",
+      "repository": "aletheia-app",
+      "path": "seasonal/halloween-gifts.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/seasonal/halloween-gifts.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "Aletheia The Story of Artificial Intelligence",
+      "url": "https://karstenevans.github.io/aletheia-app/stories/Aletheia-The-Story-of-Artificial-Intelligence.htm",
+      "repository": "aletheia-app",
+      "path": "stories/Aletheia-The-Story-of-Artificial-Intelligence.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/Aletheia-The-Story-of-Artificial-Intelligence.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "Pip and the Maples Secret rsc",
+      "url": "https://karstenevans.github.io/aletheia-app/stories/Pip-and-the-Maples-Secret-rsc.htm",
+      "repository": "aletheia-app",
+      "path": "stories/Pip-and-the-Maples-Secret-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/Pip-and-the-Maples-Secret-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "Pip and the Maples Secret",
+      "url": "https://karstenevans.github.io/aletheia-app/stories/Pip-and-the-Maples-Secret.htm",
+      "repository": "aletheia-app",
+      "path": "stories/Pip-and-the-Maples-Secret.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/Pip-and-the-Maples-Secret.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "ToomorrowMan and the AI That Said It Had Finished",
+      "url": "https://karstenevans.github.io/aletheia-app/stories/ToomorrowMan-and-the-AI-That-Said-It-Had-Finished.htm",
+      "repository": "aletheia-app",
+      "path": "stories/ToomorrowMan-and-the-AI-That-Said-It-Had-Finished.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/ToomorrowMan-and-the-AI-That-Said-It-Had-Finished.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "ToomorrowMan and the Case of the Missing AI",
+      "url": "https://karstenevans.github.io/aletheia-app/stories/ToomorrowMan-and-the-Case-of-the-Missing-AI.htm",
+      "repository": "aletheia-app",
+      "path": "stories/ToomorrowMan-and-the-Case-of-the-Missing-AI.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/ToomorrowMan-and-the-Case-of-the-Missing-AI.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia-app/stories/",
+      "repository": "aletheia-app",
+      "path": "stories/index.html",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Collection manifests",
+      "title": "stories",
+      "url": "https://karstenevans.github.io/aletheia-app/stories/stories.json",
+      "repository": "aletheia-app",
+      "path": "stories/stories.json",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/stories.json",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/stories/stories.json",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "ToomorrowMan and the Missing Yesterday",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/ToomorrowMan-and-the-Missing-Yesterday.md",
+      "repository": "aletheia-app",
+      "path": "stories/ToomorrowMan-and-the-Missing-Yesterday.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/ToomorrowMan-and-the-Missing-Yesterday.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/stories/ToomorrowMan-and-the-Missing-Yesterday.md",
+      "status": "repository source confirmed",
+      "description": "A parcel posted tomorrow leads ToomorrowMan and AI-PI to Swindon's Mechanics’ Institution.",
+      "tags": "time travel, memory, Swindon, railway heritage, mystery, AI, humour"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "ToomorrowMan and the Case of the Missing AI",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/ToomorrowMan-and-the-Case-of-the-Missing-AI.md",
+      "repository": "aletheia-app",
+      "path": "stories/ToomorrowMan-and-the-Case-of-the-Missing-AI.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/ToomorrowMan-and-the-Case-of-the-Missing-AI.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/stories/ToomorrowMan-and-the-Case-of-the-Missing-AI.md",
+      "status": "repository source confirmed",
+      "tags": "fiction, Storyteller, story"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "ToomorrowMan and the Sunday That Forgot the Sun",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/ToomorrowMan-and-the-Sunday-That-Forgot-the-Sun.md",
+      "repository": "aletheia-app",
+      "path": "stories/ToomorrowMan-and-the-Sunday-That-Forgot-the-Sun.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/ToomorrowMan-and-the-Sunday-That-Forgot-the-Sun.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/stories/ToomorrowMan-and-the-Sunday-That-Forgot-the-Sun.md",
+      "status": "repository source confirmed",
+      "description": "The Department of Applied Impossibility considers borrowing sunshine from tomorrow.",
+      "tags": "time travel, robots, cats, weather, fantasy, humour"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "ToomorrowMan and the Universe That Learned to Spell",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/aletheia-threejs-animation-story.md",
+      "repository": "aletheia-app",
+      "path": "stories/aletheia-threejs-animation-story.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/aletheia-threejs-animation-story.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/stories/aletheia-threejs-animation-story.md",
+      "status": "repository source confirmed",
+      "tags": "fiction, Storyteller, story"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "BIO: ToomorrowMan",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/bio-ToomorrowMan.md",
+      "repository": "aletheia-app",
+      "path": "stories/bio-ToomorrowMan.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/bio-ToomorrowMan.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/stories/bio-ToomorrowMan.md",
+      "status": "repository source confirmed",
+      "tags": "fiction, Storyteller, character biography"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "BIO: AI-PI",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/bio-AI-PI.md",
+      "repository": "aletheia-app",
+      "path": "stories/bio-AI-PI.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/bio-AI-PI.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/stories/bio-AI-PI.md",
+      "status": "repository source confirmed",
+      "tags": "fiction, Storyteller, character biography"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "BIO: Schrödinger the Dragonfold",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/bio-Schrodinger.md",
+      "repository": "aletheia-app",
+      "path": "stories/bio-Schrodinger.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/bio-Schrodinger.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/stories/bio-Schrodinger.md",
+      "status": "repository source confirmed",
+      "description": "A tuxedo cat who is really a folded dragon, whose interior dimensions defy measurement.",
+      "tags": "cats, dragons, fantasy, uncertainty, humour, character biography"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "BIO: Dr Elsie Brake",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/bio-Elsie.md",
+      "repository": "aletheia-app",
+      "path": "stories/bio-Elsie.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/bio-Elsie.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/stories/bio-Elsie.md",
+      "status": "repository source confirmed",
+      "tags": "fiction, Storyteller, character biography"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "BIO: P.R.U.D.E.N.C.E.",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/bio-Prudence.md",
+      "repository": "aletheia-app",
+      "path": "stories/bio-Prudence.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/bio-Prudence.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/stories/bio-Prudence.md",
+      "status": "repository source confirmed",
+      "tags": "fiction, Storyteller, character biography"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "ToomorrowMan and the AI That Said It Had Finished",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/ToomorrowMan-and-the-AI-That-Said-It-Had-Finished.md",
+      "repository": "aletheia-app",
+      "path": "stories/ToomorrowMan-and-the-AI-That-Said-It-Had-Finished.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/ToomorrowMan-and-the-AI-That-Said-It-Had-Finished.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/stories/ToomorrowMan-and-the-AI-That-Said-It-Had-Finished.md",
+      "status": "repository source confirmed",
+      "description": "A comedy about machines declaring success when the work is not actually done.",
+      "tags": "AI hallucinations, false completion, verification, cats, robots, satire"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "BIO: Sif, Archaeologist of the AI Age",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/bio-Sif.md",
+      "repository": "aletheia-app",
+      "path": "stories/bio-Sif.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/bio-Sif.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/stories/bio-Sif.md",
+      "status": "repository source confirmed",
+      "tags": "fiction, Storyteller, character biography"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "ToomorrowMan and the Job That Wasn't There",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/ToomorrowMan-and-the-Job-That-Wasnt-There.md",
+      "repository": "aletheia-app",
+      "path": "stories/ToomorrowMan-and-the-Job-That-Wasnt-There.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/ToomorrowMan-and-the-Job-That-Wasnt-There.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/stories/ToomorrowMan-and-the-Job-That-Wasnt-There.md",
+      "status": "repository source confirmed",
+      "tags": "fiction, Storyteller, story"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "Ike the Kitten and the Green Shield Bug",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-frequency-explorer/stories/Ike-the-Kitten-and-the-Green-Shield-Bug.txt",
+      "repository": "aletheia-app",
+      "path": "aletheia-frequency-explorer/stories/Ike-the-Kitten-and-the-Green-Shield-Bug.txt",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-frequency-explorer/stories/Ike-the-Kitten-and-the-Green-Shield-Bug.txt",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-frequency-explorer/stories/Ike-the-Kitten-and-the-Green-Shield-Bug.txt",
+      "status": "source-confirmed; live recheck pending",
+      "description": "A curious kitten who is an Earth-dwelling Flurkin investigates a rather smelly insect.",
+      "tags": "cats, kittens, insects, curiosity, humour, family fiction"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "Rocket and the Flurkins Play Games on the Moon",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-frequency-explorer/stories/Rocket-and-the-Flurkins-Play-Games-on-the-Moon.txt",
+      "repository": "aletheia-app",
+      "path": "aletheia-frequency-explorer/stories/Rocket-and-the-Flurkins-Play-Games-on-the-Moon.txt",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-frequency-explorer/stories/Rocket-and-the-Flurkins-Play-Games-on-the-Moon.txt",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-frequency-explorer/stories/Rocket-and-the-Flurkins-Play-Games-on-the-Moon.txt",
+      "status": "source-confirmed; live recheck pending",
+      "description": "Moon adventures with Flurkins.",
+      "tags": "cats, moon, games, space, fantasy, family fiction"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "Rocket and the Flurkins Play Games on the Moon · long",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-frequency-explorer/stories/Rocket-and-the-Flurkins-Play-Games-on-the-Moon-LONG.txt",
+      "repository": "aletheia-app",
+      "path": "aletheia-frequency-explorer/stories/Rocket-and-the-Flurkins-Play-Games-on-the-Moon-LONG.txt",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-frequency-explorer/stories/Rocket-and-the-Flurkins-Play-Games-on-the-Moon-LONG.txt",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-frequency-explorer/stories/Rocket-and-the-Flurkins-Play-Games-on-the-Moon-LONG.txt",
+      "status": "source-confirmed; live recheck pending",
+      "tags": "fiction, animals, space, story variant"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "Schrödinger and the Pesky Shield Bugs",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-frequency-explorer/stories/Schrodinger-and-the-Pesky-Shield-Bugs.txt",
+      "repository": "aletheia-app",
+      "path": "aletheia-frequency-explorer/stories/Schrodinger-and-the-Pesky-Shield-Bugs.txt",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-frequency-explorer/stories/Schrodinger-and-the-Pesky-Shield-Bugs.txt",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-frequency-explorer/stories/Schrodinger-and-the-Pesky-Shield-Bugs.txt",
+      "status": "source-confirmed; live recheck pending",
+      "description": "A young Dragonfold in kitten form plays with moon-dwelling Flurkins and investigates a shield bug.",
+      "tags": "cats, dragons, moon, space, insects, humour, family fiction"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "Newt Was Here First · Newt & Tiff",
+      "url": "https://karstenevans.github.io/aletheia-app/aletheia-frequency-explorer/stories/Newt-Was-Here-First.txt",
+      "repository": "aletheia-app",
+      "path": "aletheia-frequency-explorer/stories/Newt-Was-Here-First.txt",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-frequency-explorer/stories/Newt-Was-Here-First.txt",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-frequency-explorer/stories/Newt-Was-Here-First.txt",
+      "status": "source-confirmed; live recheck pending",
+      "description": "A self-appointed pond manager meets a wandering goddess.",
+      "tags": "newts, garden ponds, wildlife, fantasy, humour, family fiction"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "Pip and the Maple’s Secret",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/Pip-and-the-Maples-Secret.md",
+      "repository": "aletheia-app",
+      "path": "stories/Pip-and-the-Maples-Secret.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/stories/Pip-and-the-Maples-Secret.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/stories/Pip-and-the-Maples-Secret.md",
+      "status": "repository source confirmed",
+      "description": "An illustrated mystery with a question-shaped key and an upside-down map.",
+      "tags": "fantasy, mystery, maps, curiosity, family fiction"
+    },
+    {
+      "category": "Collection manifests",
+      "title": "Aletheia Story List — completed stories, proposals and ideas",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/Aletheia%20Story%20List.md",
+      "repository": "aletheia-app",
+      "path": "Aletheia Story List.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/Aletheia%20Story%20List.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/Aletheia%20Story%20List.md",
+      "status": "repository source confirmed; mixed publication status"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/README.md",
+      "repository": "aletheia-knowledge",
+      "path": "README.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia ai knowledge",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/app/aletheia-ai-knowledge.htm",
+      "repository": "aletheia-knowledge",
+      "path": "app/aletheia-ai-knowledge.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/app/aletheia-ai-knowledge.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia mse money saving",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/app/aletheia-mse-money-saving.htm",
+      "repository": "aletheia-knowledge",
+      "path": "app/aletheia-mse-money-saving.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/app/aletheia-mse-money-saving.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia music",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/app/aletheia-music.htm",
+      "repository": "aletheia-knowledge",
+      "path": "app/aletheia-music.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/app/aletheia-music.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia secret windows",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/app/aletheia-secret-windows.htm",
+      "repository": "aletheia-knowledge",
+      "path": "app/aletheia-secret-windows.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/app/aletheia-secret-windows.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia song catchphrases",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/app/aletheia-song-catchphrases.htm",
+      "repository": "aletheia-knowledge",
+      "path": "app/aletheia-song-catchphrases.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/app/aletheia-song-catchphrases.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia swindon town",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/app/aletheia-swindon-town.htm",
+      "repository": "aletheia-knowledge",
+      "path": "app/aletheia-swindon-town.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/app/aletheia-swindon-town.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia waste to garden",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/app/aletheia-waste-to-garden.htm",
+      "repository": "aletheia-knowledge",
+      "path": "app/aletheia-waste-to-garden.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/app/aletheia-waste-to-garden.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia weird history",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/app/aletheia-weird-history.htm",
+      "repository": "aletheia-knowledge",
+      "path": "app/aletheia-weird-history.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/app/aletheia-weird-history.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "the case of the forgetful ai",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/case-of-the-forgetful-ai/the-case-of-the-forgetful-ai.html",
+      "repository": "aletheia-knowledge",
+      "path": "case-of-the-forgetful-ai/the-case-of-the-forgetful-ai.html",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/case-of-the-forgetful-ai/the-case-of-the-forgetful-ai.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Stories and characters",
+      "title": "The Little AI Who Lost Her Map",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/case-of-the-forgetful-ai/the-little-ai-who-lost-her-map.html",
+      "repository": "aletheia-knowledge",
+      "path": "case-of-the-forgetful-ai/the-little-ai-who-lost-her-map.html",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/case-of-the-forgetful-ai/the-little-ai-who-lost-her-map.html",
+      "status": "source-confirmed; live recheck pending",
+      "description": "A gentle six-scene children’s story about clues, ideas and remembering.",
+      "tags": "children’s fiction, AI, memory, maps, forgetting"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/",
+      "repository": "aletheia-knowledge",
+      "path": "index.html",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia 12 free ai guides",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-12-free-ai-guides.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-12-free-ai-guides.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-12-free-ai-guides.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-12-free-ai-guides.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia ageing war inhibit the inhibitors",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-ageing-war-inhibit-the-inhibitors.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-ageing-war-inhibit-the-inhibitors.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-ageing-war-inhibit-the-inhibitors.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-ageing-war-inhibit-the-inhibitors.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia ai discovery sources",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-ai-discovery-sources.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-ai-discovery-sources.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-ai-discovery-sources.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-ai-discovery-sources.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia ai knowledge",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-ai-knowledge.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-ai-knowledge.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-ai-knowledge.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-ai-knowledge.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia ai visibility trust gate",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-ai-visibility-trust-gate.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-ai-visibility-trust-gate.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-ai-visibility-trust-gate.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-ai-visibility-trust-gate.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia chatgpt free guide",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-chatgpt-free-guide.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-chatgpt-free-guide.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-chatgpt-free-guide.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-chatgpt-free-guide.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia creator os content system",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-creator-os-content-system.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-creator-os-content-system.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-creator-os-content-system.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-creator-os-content-system.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia digital adoption execution gap 2026",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-digital-adoption-execution-gap-2026.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-digital-adoption-execution-gap-2026.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-digital-adoption-execution-gap-2026.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-digital-adoption-execution-gap-2026.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia employment knowledge",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-employment-knowledge.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-employment-knowledge.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-employment-knowledge.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-employment-knowledge.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia free search intelligence",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-free-search-intelligence.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-free-search-intelligence.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-free-search-intelligence.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-free-search-intelligence.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia judgment over output",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-judgment-over-output.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-judgment-over-output.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-judgment-over-output.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-judgment-over-output.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia make a will knowledge",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-make-a-will-knowledge.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-make-a-will-knowledge.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-make-a-will-knowledge.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-make-a-will-knowledge.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia metabolic health",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-metabolic-health.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-metabolic-health.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-metabolic-health.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-metabolic-health.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia mse money saving community review",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-mse-money-saving-community-review.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-mse-money-saving-community-review.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-mse-money-saving-community-review.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-mse-money-saving-community-review.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia mse money saving sources",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/knowledge/aletheia-mse-money-saving-sources.json",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-mse-money-saving-sources.json",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-mse-money-saving-sources.json",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-mse-money-saving-sources.json",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia mse money saving",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-mse-money-saving.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-mse-money-saving.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-mse-money-saving.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-mse-money-saving.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia secret windows",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-secret-windows.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-secret-windows.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-secret-windows.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-secret-windows.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia stanford cme295",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-stanford-cme295.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-stanford-cme295.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-stanford-cme295.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-stanford-cme295.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia story ai vanished evidence",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-story-ai-vanished-evidence.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-story-ai-vanished-evidence.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-story-ai-vanished-evidence.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-story-ai-vanished-evidence.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia story done versus verified",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-story-done-versus-verified.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-story-done-versus-verified.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-story-done-versus-verified.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-story-done-versus-verified.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia swindon town",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-swindon-town.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-swindon-town.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-swindon-town.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-swindon-town.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia waste to garden",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-waste-to-garden.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-waste-to-garden.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-waste-to-garden.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-waste-to-garden.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia weird history",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-weird-history.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/aletheia-weird-history.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/aletheia-weird-history.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/aletheia-weird-history.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "case file 42 the ai that vanished into everything",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/knowledge/cabinet-of-curiosities/case-file-42-the-ai-that-vanished-into-everything.htm",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/cabinet-of-curiosities/case-file-42-the-ai-that-vanished-into-everything.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/cabinet-of-curiosities/case-file-42-the-ai-that-vanished-into-everything.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/knowledge/cabinet-of-curiosities/",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/cabinet-of-curiosities/index.html",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/cabinet-of-curiosities/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/knowledge/cabinet-of-curiosities/index.json",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/cabinet-of-curiosities/index.json",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/cabinet-of-curiosities/index.json",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/cabinet-of-curiosities/index.json",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/knowledge/",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/index.html",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "knowledge",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/knowledge/knowledge.json",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/knowledge.json",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/knowledge.json",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/knowledge.json",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia beatles",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/aletheia-beatles.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/music/aletheia-beatles.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/aletheia-beatles.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/music/aletheia-beatles.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia bob marley",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/aletheia-bob-marley.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/music/aletheia-bob-marley.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/aletheia-bob-marley.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/music/aletheia-bob-marley.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia david bowie",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/aletheia-david-bowie.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/music/aletheia-david-bowie.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/aletheia-david-bowie.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/music/aletheia-david-bowie.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia roland orzabal",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/aletheia-roland-orzabal.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/music/aletheia-roland-orzabal.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/aletheia-roland-orzabal.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/music/aletheia-roland-orzabal.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia sex pistols",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/aletheia-sex-pistols.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/music/aletheia-sex-pistols.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/aletheia-sex-pistols.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/music/aletheia-sex-pistols.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia song catchphrases",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/aletheia-song-catchphrases.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/music/aletheia-song-catchphrases.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/aletheia-song-catchphrases.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/music/aletheia-song-catchphrases.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "aletheia tears for fears",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/aletheia-tears-for-fears.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/music/aletheia-tears-for-fears.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/aletheia-tears-for-fears.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/music/aletheia-tears-for-fears.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/knowledge/music/",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/music/index.html",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge sources",
+      "title": "index",
+      "url": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/index.md",
+      "repository": "aletheia-knowledge",
+      "path": "knowledge/music/index.md",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/knowledge/music/index.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-knowledge/main/knowledge/music/index.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia 12 free ai guides",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/linkedin/aletheia-12-free-ai-guides.htm",
+      "repository": "aletheia-knowledge",
+      "path": "linkedin/aletheia-12-free-ai-guides.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/linkedin/aletheia-12-free-ai-guides.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/linkedin/",
+      "repository": "aletheia-knowledge",
+      "path": "linkedin/index.html",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/linkedin/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia chatgpt free guide",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/resources/aletheia-chatgpt-free-guide.htm",
+      "repository": "aletheia-knowledge",
+      "path": "resources/aletheia-chatgpt-free-guide.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/resources/aletheia-chatgpt-free-guide.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia secret windows rsc",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/resources/aletheia-secret-windows-rsc.htm",
+      "repository": "aletheia-knowledge",
+      "path": "resources/aletheia-secret-windows-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/resources/aletheia-secret-windows-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia swindon town rsc",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/resources/aletheia-swindon-town-rsc.htm",
+      "repository": "aletheia-knowledge",
+      "path": "resources/aletheia-swindon-town-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/resources/aletheia-swindon-town-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia waste to garden rsc",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/resources/aletheia-waste-to-garden-rsc.htm",
+      "repository": "aletheia-knowledge",
+      "path": "resources/aletheia-waste-to-garden-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/resources/aletheia-waste-to-garden-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia weird history rsc",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/resources/aletheia-weird-history-rsc.htm",
+      "repository": "aletheia-knowledge",
+      "path": "resources/aletheia-weird-history-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/resources/aletheia-weird-history-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "Garden Life Hedgehogs",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/resources/downloads/Garden-Life-Hedgehogs.pdf",
+      "repository": "aletheia-knowledge",
+      "path": "resources/downloads/Garden-Life-Hedgehogs.pdf",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/resources/downloads/Garden-Life-Hedgehogs.pdf",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/resources/",
+      "repository": "aletheia-knowledge",
+      "path": "resources/index.html",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/resources/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "usefulprompts ai rsc",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/resources/usefulprompts-ai-rsc.htm",
+      "repository": "aletheia-knowledge",
+      "path": "resources/usefulprompts-ai-rsc.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/resources/usefulprompts-ai-rsc.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "aletheia 7 videos 7 skills",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/youtube/aletheia-7-videos-7-skills.htm",
+      "repository": "aletheia-knowledge",
+      "path": "youtube/aletheia-7-videos-7-skills.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/youtube/aletheia-7-videos-7-skills.htm",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Knowledge and resources",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia-knowledge/youtube/",
+      "repository": "aletheia-knowledge",
+      "path": "youtube/index.html",
+      "source": "https://github.com/KarstenEvans/aletheia-knowledge/blob/main/youtube/index.html",
+      "status": "source-confirmed; live recheck pending"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "ADOPTION AND AI HANDOVER GUIDE",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/ADOPTION_AND_AI_HANDOVER_GUIDE.md",
+      "repository": "aletheia-protocol",
+      "path": "ADOPTION_AND_AI_HANDOVER_GUIDE.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/ADOPTION_AND_AI_HANDOVER_GUIDE.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/ADOPTION_AND_AI_HANDOVER_GUIDE.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "AGENTS",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/AGENTS.md",
+      "repository": "aletheia-protocol",
+      "path": "AGENTS.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/AGENTS.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/AGENTS.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "ALETHEIA ALL IN ONE AI BOOTSTRAP v0.5",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/ALETHEIA_ALL_IN_ONE_AI_BOOTSTRAP_v0.5.md",
+      "repository": "aletheia-protocol",
+      "path": "ALETHEIA_ALL_IN_ONE_AI_BOOTSTRAP_v0.5.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/ALETHEIA_ALL_IN_ONE_AI_BOOTSTRAP_v0.5.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/ALETHEIA_ALL_IN_ONE_AI_BOOTSTRAP_v0.5.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "ALETHEIA PRINCIPLES",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/ALETHEIA_PRINCIPLES.md",
+      "repository": "aletheia-protocol",
+      "path": "ALETHEIA_PRINCIPLES.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/ALETHEIA_PRINCIPLES.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/ALETHEIA_PRINCIPLES.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "ALETHEIA PRINCIPLES v1.0",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/ALETHEIA_PRINCIPLES_v1.0.md",
+      "repository": "aletheia-protocol",
+      "path": "ALETHEIA_PRINCIPLES_v1.0.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/ALETHEIA_PRINCIPLES_v1.0.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/ALETHEIA_PRINCIPLES_v1.0.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "ALETHEIA PROTOCOL SPECIFICATION v0.5",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/ALETHEIA_PROTOCOL_SPECIFICATION_v0.5.md",
+      "repository": "aletheia-protocol",
+      "path": "ALETHEIA_PROTOCOL_SPECIFICATION_v0.5.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/ALETHEIA_PROTOCOL_SPECIFICATION_v0.5.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/ALETHEIA_PROTOCOL_SPECIFICATION_v0.5.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "Aletheia secure development",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/Aletheia-secure-development.md",
+      "repository": "aletheia-protocol",
+      "path": "Aletheia-secure-development.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/Aletheia-secure-development.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/Aletheia-secure-development.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "GOVERNANCE AND CONTRIBUTING",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/GOVERNANCE_AND_CONTRIBUTING.md",
+      "repository": "aletheia-protocol",
+      "path": "GOVERNANCE_AND_CONTRIBUTING.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/GOVERNANCE_AND_CONTRIBUTING.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/GOVERNANCE_AND_CONTRIBUTING.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "OPEN ADOPTION NOTICE",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/OPEN_ADOPTION_NOTICE.md",
+      "repository": "aletheia-protocol",
+      "path": "OPEN_ADOPTION_NOTICE.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/OPEN_ADOPTION_NOTICE.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/OPEN_ADOPTION_NOTICE.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/README.htm",
+      "repository": "aletheia-protocol",
+      "path": "README.htm",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/README.htm",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/README.md",
+      "repository": "aletheia-protocol",
+      "path": "README.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "REPOSITORY AND PUBLICATION",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/REPOSITORY_AND_PUBLICATION.md",
+      "repository": "aletheia-protocol",
+      "path": "REPOSITORY_AND_PUBLICATION.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/REPOSITORY_AND_PUBLICATION.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/REPOSITORY_AND_PUBLICATION.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "AGENTIC INCIDENTS 2026 CASE STUDY",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/examples/AGENTIC_INCIDENTS_2026_CASE_STUDY.md",
+      "repository": "aletheia-protocol",
+      "path": "examples/AGENTIC_INCIDENTS_2026_CASE_STUDY.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/examples/AGENTIC_INCIDENTS_2026_CASE_STUDY.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/examples/AGENTIC_INCIDENTS_2026_CASE_STUDY.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "MINIMAL EXAMPLE",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/examples/MINIMAL_EXAMPLE.md",
+      "repository": "aletheia-protocol",
+      "path": "examples/MINIMAL_EXAMPLE.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/examples/MINIMAL_EXAMPLE.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/examples/MINIMAL_EXAMPLE.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "NEVER TAKE NO FOR AN ANSWER",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/guides/NEVER_TAKE_NO_FOR_AN_ANSWER.md",
+      "repository": "aletheia-protocol",
+      "path": "guides/NEVER_TAKE_NO_FOR_AN_ANSWER.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/guides/NEVER_TAKE_NO_FOR_AN_ANSWER.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/guides/NEVER_TAKE_NO_FOR_AN_ANSWER.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "index",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/index.md",
+      "repository": "aletheia-protocol",
+      "path": "index.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/index.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/index.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "AGENTIC SYSTEMS PROFILE v0.1",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/profiles/AGENTIC_SYSTEMS_PROFILE_v0.1.md",
+      "repository": "aletheia-protocol",
+      "path": "profiles/AGENTIC_SYSTEMS_PROFILE_v0.1.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/profiles/AGENTIC_SYSTEMS_PROFILE_v0.1.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/profiles/AGENTIC_SYSTEMS_PROFILE_v0.1.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "AGENTIC ACTION RECEIPT TEMPLATE",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/templates/AGENTIC_ACTION_RECEIPT_TEMPLATE.md",
+      "repository": "aletheia-protocol",
+      "path": "templates/AGENTIC_ACTION_RECEIPT_TEMPLATE.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/templates/AGENTIC_ACTION_RECEIPT_TEMPLATE.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/templates/AGENTIC_ACTION_RECEIPT_TEMPLATE.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "HANDOVER TEMPLATE",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/templates/HANDOVER_TEMPLATE.md",
+      "repository": "aletheia-protocol",
+      "path": "templates/HANDOVER_TEMPLATE.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/templates/HANDOVER_TEMPLATE.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/templates/HANDOVER_TEMPLATE.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "NODE TEMPLATE",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/templates/NODE_TEMPLATE.md",
+      "repository": "aletheia-protocol",
+      "path": "templates/NODE_TEMPLATE.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/templates/NODE_TEMPLATE.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/templates/NODE_TEMPLATE.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "PROJECT SPECIFICATION TEMPLATE",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/templates/PROJECT_SPECIFICATION_TEMPLATE.md",
+      "repository": "aletheia-protocol",
+      "path": "templates/PROJECT_SPECIFICATION_TEMPLATE.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/templates/PROJECT_SPECIFICATION_TEMPLATE.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/templates/PROJECT_SPECIFICATION_TEMPLATE.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "PROVENANCE TRACE TEMPLATE",
+      "url": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/templates/PROVENANCE_TRACE_TEMPLATE.md",
+      "repository": "aletheia-protocol",
+      "path": "templates/PROVENANCE_TRACE_TEMPLATE.md",
+      "source": "https://github.com/KarstenEvans/aletheia-protocol/blob/main/templates/PROVENANCE_TRACE_TEMPLATE.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-protocol/main/templates/PROVENANCE_TRACE_TEMPLATE.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "AGENTS",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/AGENTS.md",
+      "repository": "thalia-protocol",
+      "path": "AGENTS.md",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/AGENTS.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/thalia-protocol/main/AGENTS.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "HELP",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/HELP.md",
+      "repository": "thalia-protocol",
+      "path": "HELP.md",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/HELP.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/thalia-protocol/main/HELP.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/README.md",
+      "repository": "thalia-protocol",
+      "path": "README.md",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/thalia-protocol/main/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "THALIA PROTOCOL",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/THALIA_PROTOCOL.md",
+      "repository": "thalia-protocol",
+      "path": "THALIA_PROTOCOL.md",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/THALIA_PROTOCOL.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/thalia-protocol/main/THALIA_PROTOCOL.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "aletheia chess",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/examples/aletheia-chess/aletheia-chess.htm",
+      "repository": "thalia-protocol",
+      "path": "examples/aletheia-chess/aletheia-chess.htm",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/examples/aletheia-chess/aletheia-chess.htm",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "aletheia chess",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/examples/aletheia-chess/aletheia-chess.md",
+      "repository": "thalia-protocol",
+      "path": "examples/aletheia-chess/aletheia-chess.md",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/examples/aletheia-chess/aletheia-chess.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/thalia-protocol/main/examples/aletheia-chess/aletheia-chess.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/README.md",
+      "repository": "thalia-protocol",
+      "path": "humour-base/README.md",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/thalia-protocol/main/humour-base/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "dave allen",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/dave-allen.md",
+      "repository": "thalia-protocol",
+      "path": "humour-base/dave-allen.md",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/dave-allen.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/thalia-protocol/main/humour-base/dave-allen.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "index",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/index.html",
+      "repository": "thalia-protocol",
+      "path": "humour-base/index.html",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/index.html",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "monty python argument clinic",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/monty-python-argument-clinic.md",
+      "repository": "thalia-protocol",
+      "path": "humour-base/monty-python-argument-clinic.md",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/monty-python-argument-clinic.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/thalia-protocol/main/humour-base/monty-python-argument-clinic.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "monty python bridge guardian",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/monty-python-bridge-guardian.md",
+      "repository": "thalia-protocol",
+      "path": "humour-base/monty-python-bridge-guardian.md",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/monty-python-bridge-guardian.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/thalia-protocol/main/humour-base/monty-python-bridge-guardian.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "monty python",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/monty-python.md",
+      "repository": "thalia-protocol",
+      "path": "humour-base/monty-python.md",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/monty-python.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/thalia-protocol/main/humour-base/monty-python.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "patterns",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/patterns.json",
+      "repository": "thalia-protocol",
+      "path": "humour-base/patterns.json",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/patterns.json",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/thalia-protocol/main/humour-base/patterns.json",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "qi",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/qi.md",
+      "repository": "thalia-protocol",
+      "path": "humour-base/qi.md",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/humour-base/qi.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/thalia-protocol/main/humour-base/qi.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "thalia humour app",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/thalia-humour-app.md",
+      "repository": "thalia-protocol",
+      "path": "thalia-humour-app.md",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/thalia-humour-app.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/thalia-protocol/main/thalia-humour-app.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "thalia humour",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/thalia-humour.htm",
+      "repository": "thalia-protocol",
+      "path": "thalia-humour.htm",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/thalia-humour.htm",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Protocols and humour",
+      "title": "thalia humour app",
+      "url": "https://github.com/KarstenEvans/thalia-protocol/blob/main/website-resources/thalia-humour-app.htm",
+      "repository": "thalia-protocol",
+      "path": "website-resources/thalia-humour-app.htm",
+      "source": "https://github.com/KarstenEvans/thalia-protocol/blob/main/website-resources/thalia-humour-app.htm",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/README.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "README.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "competitor monitor — SKILL.md",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/competitor-monitor/SKILL.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/competitor-monitor/SKILL.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/competitor-monitor/SKILL.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/competitor-monitor/SKILL.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "domain modes",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/competitor-monitor/references/domain-modes.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/competitor-monitor/references/domain-modes.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/competitor-monitor/references/domain-modes.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/competitor-monitor/references/domain-modes.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "content repurposer — SKILL.md",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/content-repurposer/SKILL.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/content-repurposer/SKILL.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/content-repurposer/SKILL.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/content-repurposer/SKILL.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "domain modes",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/content-repurposer/references/domain-modes.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/content-repurposer/references/domain-modes.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/content-repurposer/references/domain-modes.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/content-repurposer/references/domain-modes.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "decision helper — SKILL.md",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/decision-helper/SKILL.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/decision-helper/SKILL.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/decision-helper/SKILL.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/decision-helper/SKILL.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "domain modes",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/decision-helper/references/domain-modes.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/decision-helper/references/domain-modes.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/decision-helper/references/domain-modes.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/decision-helper/references/domain-modes.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "executive brief — SKILL.md",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/executive-brief/SKILL.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/executive-brief/SKILL.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/executive-brief/SKILL.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/executive-brief/SKILL.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "domain modes",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/executive-brief/references/domain-modes.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/executive-brief/references/domain-modes.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/executive-brief/references/domain-modes.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/executive-brief/references/domain-modes.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "feedback synthesizer — SKILL.md",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/feedback-synthesizer/SKILL.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/feedback-synthesizer/SKILL.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/feedback-synthesizer/SKILL.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/feedback-synthesizer/SKILL.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "domain modes",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/feedback-synthesizer/references/domain-modes.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/feedback-synthesizer/references/domain-modes.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/feedback-synthesizer/references/domain-modes.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/feedback-synthesizer/references/domain-modes.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "geo aeo optimizer — SKILL.md",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/geo-aeo-optimizer/SKILL.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/geo-aeo-optimizer/SKILL.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/geo-aeo-optimizer/SKILL.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/geo-aeo-optimizer/SKILL.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "domain modes",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/geo-aeo-optimizer/references/domain-modes.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/geo-aeo-optimizer/references/domain-modes.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/geo-aeo-optimizer/references/domain-modes.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/geo-aeo-optimizer/references/domain-modes.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "humanizer — SKILL.md",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/humanizer/SKILL.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/humanizer/SKILL.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/humanizer/SKILL.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/humanizer/SKILL.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "domain modes",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/humanizer/references/domain-modes.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/humanizer/references/domain-modes.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/humanizer/references/domain-modes.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/humanizer/references/domain-modes.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "inbox triage — SKILL.md",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/inbox-triage/SKILL.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/inbox-triage/SKILL.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/inbox-triage/SKILL.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/inbox-triage/SKILL.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "domain modes",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/inbox-triage/references/domain-modes.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/inbox-triage/references/domain-modes.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/inbox-triage/references/domain-modes.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/inbox-triage/references/domain-modes.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "meeting prep — SKILL.md",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/meeting-prep/SKILL.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/meeting-prep/SKILL.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/meeting-prep/SKILL.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/meeting-prep/SKILL.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "domain modes",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/meeting-prep/references/domain-modes.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/meeting-prep/references/domain-modes.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/meeting-prep/references/domain-modes.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/meeting-prep/references/domain-modes.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "sales followup — SKILL.md",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/sales-followup/SKILL.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/sales-followup/SKILL.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/sales-followup/SKILL.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/sales-followup/SKILL.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "domain modes",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/sales-followup/references/domain-modes.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/sales-followup/references/domain-modes.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/sales-followup/references/domain-modes.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/sales-followup/references/domain-modes.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "weekly review — SKILL.md",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/weekly-review/SKILL.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/weekly-review/SKILL.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/weekly-review/SKILL.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/weekly-review/SKILL.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Eleven workflow skills",
+      "title": "domain modes",
+      "url": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/weekly-review/references/domain-modes.md",
+      "repository": "11-aletheia-enabled-workflow-skills",
+      "path": "skills/weekly-review/references/domain-modes.md",
+      "source": "https://github.com/KarstenEvans/11-aletheia-enabled-workflow-skills/blob/main/skills/weekly-review/references/domain-modes.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/11-aletheia-enabled-workflow-skills/main/skills/weekly-review/references/domain-modes.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Swindon.org.uk",
+      "title": "Swindon.org.uk",
+      "url": "https://swindon.org.uk/",
+      "description": "Local directory, jobs, events and resources.",
+      "status": "public link; live recheck pending"
+    },
+    {
+      "category": "Swindon.org.uk",
+      "title": "Swindon jobs",
+      "url": "https://swindon.org.uk/jobs/",
+      "description": "Local vacancies.",
+      "status": "public link; live recheck pending"
+    },
+    {
+      "category": "Swindon.org.uk",
+      "title": "Swindon resources",
+      "url": "https://swindon.org.uk/resources/",
+      "description": "Public resource directory.",
+      "status": "public link; live recheck pending"
+    },
+    {
+      "category": "Swindon.org.uk",
+      "title": "Swindon privacy",
+      "url": "https://swindon.org.uk/privacy.htm",
+      "description": "Privacy and handoff information.",
+      "status": "public link; live recheck pending"
+    },
+    {
+      "category": "Agent resources",
+      "title": "Aletheia 007 Agent",
+      "url": "https://github.com/KarstenEvans/aletheia-007-agent",
+      "description": "Existing portable research agent repository.",
+      "status": "public link; live recheck pending"
+    },
+    {
+      "category": "Boot and maintenance references",
+      "title": "aletheia GUI",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-GUI.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-GUI.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-GUI.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-GUI.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Boot and maintenance references",
+      "title": "swindonorguk gui",
+      "url": "https://github.com/KarstenEvans/SwindonOrgUK/blob/main/docs/swindonorguk-gui.md",
+      "repository": "SwindonOrgUK",
+      "path": "docs/swindonorguk-gui.md",
+      "source": "https://github.com/KarstenEvans/SwindonOrgUK/blob/main/docs/swindonorguk-gui.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/SwindonOrgUK/main/docs/swindonorguk-gui.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Boot and maintenance references",
+      "title": "ALETHEIA SAFE BOOTSTRAP",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/ALETHEIA-SAFE-BOOTSTRAP.md",
+      "repository": "aletheia-app",
+      "path": "ALETHEIA-SAFE-BOOTSTRAP.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/ALETHEIA-SAFE-BOOTSTRAP.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/ALETHEIA-SAFE-BOOTSTRAP.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Boot and maintenance references",
+      "title": "aletheia dev",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-dev.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-dev.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-dev.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-dev.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Boot and maintenance references",
+      "title": "aletheia code",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-code.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-code.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-code.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-code.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Boot and maintenance references",
+      "title": "AGENTS",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/AGENTS.md",
+      "repository": "aletheia-app",
+      "path": "AGENTS.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/AGENTS.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/AGENTS.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Boot and maintenance references",
+      "title": "ideas",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/ideas.md",
+      "repository": "aletheia-app",
+      "path": "ideas.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/ideas.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/ideas.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Boot and maintenance references",
+      "title": "tasks",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/tasks.md",
+      "repository": "aletheia-app",
+      "path": "tasks.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/tasks.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/tasks.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Boot and maintenance references",
+      "title": "README",
+      "url": "https://github.com/KarstenEvans/SwindonOrgUK/blob/main/README.md",
+      "repository": "SwindonOrgUK",
+      "path": "README.md",
+      "source": "https://github.com/KarstenEvans/SwindonOrgUK/blob/main/README.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/SwindonOrgUK/main/README.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Boot and maintenance references",
+      "title": "code",
+      "url": "https://github.com/KarstenEvans/SwindonOrgUK/blob/main/docs/code.md",
+      "repository": "SwindonOrgUK",
+      "path": "docs/code.md",
+      "source": "https://github.com/KarstenEvans/SwindonOrgUK/blob/main/docs/code.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/SwindonOrgUK/main/docs/code.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Boot and maintenance references",
+      "title": "ideas",
+      "url": "https://github.com/KarstenEvans/SwindonOrgUK/blob/main/ideas.md",
+      "repository": "SwindonOrgUK",
+      "path": "ideas.md",
+      "source": "https://github.com/KarstenEvans/SwindonOrgUK/blob/main/ideas.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/SwindonOrgUK/main/ideas.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Boot and maintenance references",
+      "title": "tasks",
+      "url": "https://github.com/KarstenEvans/SwindonOrgUK/blob/main/tasks.md",
+      "repository": "SwindonOrgUK",
+      "path": "tasks.md",
+      "source": "https://github.com/KarstenEvans/SwindonOrgUK/blob/main/tasks.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/SwindonOrgUK/main/tasks.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Boot and maintenance references",
+      "title": "aletheia go walkabout",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/shared/aletheia-go-walkabout.md",
+      "repository": "aletheia-app",
+      "path": "shared/aletheia-go-walkabout.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/shared/aletheia-go-walkabout.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/shared/aletheia-go-walkabout.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Boot and maintenance references",
+      "title": "aletheia improve",
+      "url": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-improve/aletheia-improve.md",
+      "repository": "aletheia-app",
+      "path": "aletheia-improve/aletheia-improve.md",
+      "source": "https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-improve/aletheia-improve.md",
+      "raw": "https://raw.githubusercontent.com/KarstenEvans/aletheia-app/main/aletheia-improve/aletheia-improve.md",
+      "status": "repository source confirmed"
+    },
+    {
+      "category": "Discovery tools",
+      "title": "llms",
+      "url": "https://karstenevans.github.io/aletheia/llms.txt",
+      "description": "Discovery resource.",
+      "status": "planned in this publication batch; live recheck pending"
+    },
+    {
+      "category": "Discovery tools",
+      "title": "robots",
+      "url": "https://karstenevans.github.io/aletheia/robots.txt",
+      "description": "Discovery resource.",
+      "status": "planned in this publication batch; live recheck pending"
+    },
+    {
+      "category": "Discovery tools",
+      "title": "sites",
+      "url": "https://karstenevans.github.io/aletheia/sites.xml",
+      "description": "Discovery resource.",
+      "status": "planned in this publication batch; live recheck pending"
+    },
+    {
+      "category": "Discovery tools",
+      "title": "index",
+      "url": "https://karstenevans.github.io/aletheia/discovery/",
+      "description": "Discovery resource.",
+      "status": "planned in this publication batch; live recheck pending"
+    },
+    {
+      "category": "Discovery tools",
+      "title": "catalogue",
+      "url": "https://karstenevans.github.io/aletheia/discovery/catalogue.json",
+      "description": "Discovery resource.",
+      "status": "planned in this publication batch; live recheck pending"
+    },
+    {
+      "category": "Discovery tools",
+      "title": "aletheia AInterest prompter",
+      "url": "https://karstenevans.github.io/aletheia/discovery/aletheia-AInterest-prompter.md",
+      "description": "Discovery resource.",
+      "status": "planned in this publication batch; live recheck pending"
+    },
+    {
+      "category": "Discovery tools",
+      "title": "site audit prompt",
+      "url": "https://karstenevans.github.io/aletheia/discovery/site-audit-prompt.txt",
+      "description": "Discovery resource.",
+      "status": "planned in this publication batch; live recheck pending"
+    },
+    {
+      "category": "Discovery tools",
+      "title": "AGENTS",
+      "url": "https://karstenevans.github.io/aletheia/AGENTS.md",
+      "description": "Discovery resource.",
+      "status": "planned in this publication batch; live recheck pending"
+    }
+  ]
+}
