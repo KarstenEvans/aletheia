@@ -1,0 +1,9 @@
+# Aletheia project-local crawler guidance, 2026-11-25.
+# This is /aletheia/robots.txt, NOT the hostname-root /robots.txt required by RFC 9309.
+# Published for explicit inspection; cannot set shared github.io host policy.
+# No change to actual host-level permissions is implied.
+User-agent: *
+Disallow:
+Sitemap: https://karstenevans.github.io/aletheia/sitemap.xml
+# AI discovery: https://karstenevans.github.io/aletheia/llms.txt
+# Cross-project catalogue (not a search sitemap): https://karstenevans.github.io/aletheia/sites.xml
